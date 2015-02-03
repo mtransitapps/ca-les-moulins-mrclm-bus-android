@@ -2,11 +2,17 @@ Title: MRC Les Moulins (Urbis) Bus (MonTransit)
 ----------
 Short description: MRC Les Moulins (Urbis) bus information for MonTransit BETA.
 ----------
+What's new in this version?:
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+
+Schedule from December 1, 2014 to December 23, 2020.
+----------
 Full description:
-BETA: TEST IN PROGRESS
-To leave the test: http://goo.gl/qRSKCe
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
 This application adds MRC Les Moulins (Urbis) bus information to MonTransit BETA.
+
+MRC Les Moulins (Urbis) serves Mascouche and Terrebonne.
 
 Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
 
