@@ -1,16 +1,21 @@
-Title: MRC Les Moulins (Urbis) Bus (MonTransit)
+Title: MRC Les Moulins Urbis Bus - M…
 ----------
-Short description: MRC Les Moulins (Urbis) bus information for MonTransit BETA.
+Short description:
+MRC Les Moulins (Urbis) bus for MonTransit BETA
+Schedule. Tweets from @UrbisLM
 ----------
 What's new in this version?:
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 Schedule from December 1, 2014 to December 23, 2020.
+Tweets from @UrbisLM.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 This application adds MRC Les Moulins (Urbis) bus information to MonTransit BETA.
+
+This app contains the bus schedule and the latest news from @UrbisLM on Twitter.
+
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
 MRC Les Moulins (Urbis) serves Mascouche and Terrebonne.
 
@@ -27,6 +32,9 @@ This application is free and open-source:
 https://github.com/mtransitapps/ca-les-moulins-mrclm-bus-android
 
 This app is not related with the Agence Métropolitaine de Transport and MRC Les Moulins (Urbis).
+
+Permissions:
+- Other: required to read news (Twitter)
 ----------
 Application type: Applications
 ----------
