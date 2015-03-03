@@ -3,7 +3,7 @@
 300,0,'Terrebonne - Mascouche',3
 401,0,'Mascouche',4
 400,0,'Terrebonne',4
-500,0,'Bois-Des-Filion - Terrebonne / Terrebonne - Bois-Des-Filion',5
+500,0,'Bois-Des-Filion <-> Terrebonne',5
 600,0,'Appalaches / Oural',6
 601,0,'Pincourt / Bois-Franc',6
 800,0,'Terrebonne',8
@@ -16,21 +16,21 @@
 1600,0,'Terrebonne - La Plaine',16
 1700,0,'Terrebonne - La Plaine',17
 1800,0,'CFP / Terminus Terrebonne',18
-1801,0,'Parcours PM',18
+1801,0,'PM',18
 1901,0,'Laval',19
 1900,0,'Terrebonne',19
-2000,0,'Mascouche - Terrebonne / Terrebonne - Mascouche',20
+2000,0,'Mascouche <-> Terrebonne',20
 2100,0,'Mascouche / Terrebonne',21
-2201,0,'Chemin Pincourt',22
 2200,0,'Montée Masson',22
-2300,0,'CEGEP - Terminus Terrebonne',23
-2301,0,'Terminus Terrebonne - CEGEP',23
-2400,0,'Cégep Terrebonne / Terminus Terrebonne',24
+2201,0,'Pincourt',22
+2301,0,'Cégep',23
+2300,0,'Terminus Terrebonne',23
 2401,0,'Place Longchamps',24
-2501,0,'St-Julien / Amos / Terminus Henri-Bourassa',25
+2400,0,'Terminus Terrebonne (Cégep)',24
+2501,0,'Henri-Bourassa',25
 2500,0,'Terrebonne',25
-2601,0,'Chemin St-Henri',26
-2600,0,'Chemin St-Philippe',26
+2601,0,'St-Henri',26
+2600,0,'St-Philippe',26
 2701,0,'Cité Du Sport',27
 2700,0,'Terminus Terrebonne',27
 3000,0,'Terminus Radisson',30

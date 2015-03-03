@@ -5,7 +5,7 @@ MRC Les Moulins (Urbis) bus for MonTransit BETA
 Schedule. Tweets from @UrbisLM
 ----------
 What's new in this version?:
-Schedule from December 1, 2014 to December 23, 2020.
+Schedule from December 1, 2014 to March 14, 2015.
 Tweets from @UrbisLM.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
