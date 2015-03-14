@@ -25,8 +25,7 @@
 2201,0,'Pincourt',22
 2301,0,'Cégep',23
 2300,0,'Terminus Terrebonne',23
-2401,0,'Place Longchamps',24
-2400,0,'Terminus Terrebonne (Cégep)',24
+2401,0,'Cité-Du Sport',24
 2501,0,'Henri-Bourassa',25
 2500,0,'Terrebonne',25
 2601,0,'St-Henri',26
@@ -40,6 +39,8 @@
 4101,0,'Terrebonne',41
 4500,0,'Terrebonne',45
 4800,0,'Terrebonne',48
+12401,0,'Place Longchamps',124
+12400,0,'Terminus Terrebonne',124
 14001,0,'Lachenaie',140
 14000,0,'Montréal',140
 40300,0,'Gare Mascouche',403
