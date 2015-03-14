@@ -5,7 +5,7 @@ Bus MRC Les Moulins (Urbis) pour MonTransit BETA
 Horaires. Tweets de @UrbisLM
 ----------
 What's new in this version?:
-Horaires du 1 Décembre 2014 au 14 Mars 2015.
+Horaires du 15 Mars 2015 au 23 Décembre 2020.
 Tweets de @UrbisLM.
 
 BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
