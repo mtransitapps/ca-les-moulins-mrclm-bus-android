@@ -15,8 +15,8 @@
 1500,0,'Terrebonne - La Plaine',15
 1600,0,'Terrebonne - La Plaine',16
 1700,0,'Terrebonne - La Plaine',17
-1800,0,'CFP / Terminus Terrebonne',18
-1801,0,'PM',18
+1801,0,'Angora / Gascon / Terminus Terrebonne',18
+1800,0,'Terminus Terrebonne',18
 1901,0,'Laval',19
 1900,0,'Terrebonne',19
 2000,0,'Mascouche <-> Terrebonne',20
@@ -39,6 +39,8 @@
 4101,0,'Terrebonne',41
 4500,0,'Terrebonne',45
 4800,0,'Terrebonne',48
+5500,0,'Sobeys',55
+5501,0,'Terminus Terrebonne',55
 12401,0,'Place Longchamps',124
 12400,0,'Terminus Terrebonne',124
 14001,0,'Lachenaie',140
