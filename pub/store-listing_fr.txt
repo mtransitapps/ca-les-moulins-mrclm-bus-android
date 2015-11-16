@@ -5,7 +5,7 @@ Autobus MRC Les Moulins (Urbis) pour MonTransit
 Horaires. Tweets de @UrbisLM
 ----------
 What's new in this version?:
-Horaires du 4 octobre 2015 au 23 novembre 2020.
+Horaires du 4 octobre 2015 au 5 décembre 2015.
 Tweets de @UrbisLM.
 ----------
 Full description:
