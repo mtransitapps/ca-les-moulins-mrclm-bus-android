@@ -13,22 +13,22 @@
 800,0,'Terrebonne',8
 901,0,'Terminus Terrebonne',9
 902,0,'Terrebonne Ouest',9
-1100,0,'Lachenaie',11
-1101,0,'Terrebonne',11
-1401,0,'Plaine',14
-1400,0,'Terrebonne',14
-1701,0,'Plaine',17
+1100,0,'Sect. Lachenaie',11
+1101,0,'Terminus Terrebonne',11
+1401,0,'Sect. La Plaine',14
+1400,0,'Terminus Terrebonne',14
+1701,0,'Sect. La Plaine',17
 1700,0,'Terminus Terrebonne',17
 1801,0,'CCW',18
 1800,0,'CW',18
-1901,0,'Laval',19
+1901,0,'Terminus Montmorency',19
 1900,0,'Terrebonne',19
 2003,0,'Mascouche',20
 2004,0,'Terrebonne',20
 2100,0,'Mascouche',21
 2101,0,'Terrebonne',21
+2201,0,'Cité Du Sport / Gégep De Terrebonne',22
 2200,0,'Mtée Masson',22
-2201,0,'Pincourt',22
 2302,0,'Cégep',23
 2301,0,'Terminus Terrebonne',23
 2401,0,'Place Longchamps',24
@@ -37,7 +37,7 @@
 2500,0,'Terrebonne',25
 2601,0,'St-Henri',26
 2600,0,'St-Philippe',26
-2701,0,'Cité Du Sport',27
+2701,0,'Cité Du Sport / Gégep De Terrebonne',27
 2700,0,'Terminus Terrebonne',27
 3000,0,'Terminus Radisson',30
 3001,0,'Terrebonne',30
@@ -46,18 +46,18 @@
 4103,0,'Terrebonne',41
 4501,0,'Terrebonne',45
 4800,0,'Terrebonne',48
+5501,0,'Côte Terrebonne / Urbanova',55
 5500,0,'Sobeys',55
-5501,0,'Terminus Terrebonne',55
-14001,0,'Lachenaie',140
 14000,0,'Montréal',140
+14001,0,'Sect. Lachenaie',140
+40301,0,'Anglais / Gascon',403
 40300,0,'Gare Mascouche',403
-40301,0,'Terrebonne',403
 41700,0,'Gare Mascouche',417
-41701,0,'Plaine',417
+41701,0,'Sect. La Plaine',417
 41800,0,'Gare Mascouche',418
 41801,0,'Terrebonne',418
+42701,0,'Cité Du Sport / Gégep De Terrebonne',427
 42700,0,'Gare Mascouche',427
-42701,0,'Terrebonne',427
-44001,0,'Lachenaie',440
-302401,0,'Cité-Du Sport',3024
-302400,0,'Entreprises / Gascon',3024
+44001,0,'Sect. Lachenaie',440
+302401,0,'Cité Du Sport / Cégep',3024
+302400,0,'Gascon',3024
