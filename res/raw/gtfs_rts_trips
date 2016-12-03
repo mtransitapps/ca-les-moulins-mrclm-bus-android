@@ -19,15 +19,15 @@
 1400,0,'Terminus Terrebonne',14
 1701,0,'Sect. La Plaine',17
 1700,0,'Terminus Terrebonne',17
-1801,0,'CCW',18
-1800,0,'CW',18
+1801,0,'Moody / Galeries De Terrebonne',18
+1800,0,'Seigneurs / Plaisance',18
 1901,0,'Terminus Montmorency',19
 1900,0,'Terrebonne',19
 2003,0,'Mascouche',20
 2004,0,'Terrebonne',20
 2100,0,'Mascouche',21
 2101,0,'Terrebonne',21
-2201,0,'Cité Du Sport / CÉGEP De Terrebonne',22
+2201,0,'Cité Du Sport / Cégep De Terrebonne',22
 2200,0,'Mtée Masson',22
 2302,0,'Cégep',23
 2301,0,'Terminus Terrebonne',23
@@ -37,7 +37,7 @@
 2500,0,'Terrebonne',25
 2601,0,'St-Henri',26
 2600,0,'St-Philippe',26
-2701,0,'Cité Du Sport / CÉGEP De Terrebonne',27
+2701,0,'Cité Du Sport / Cégep De Terrebonne',27
 2700,0,'Terminus Terrebonne',27
 3000,0,'Terminus Radisson',30
 3001,0,'Terrebonne',30
@@ -57,7 +57,7 @@
 41701,0,'Sect. La Plaine',417
 41800,0,'Gare Mascouche',418
 41801,0,'Terrebonne',418
-42701,0,'Cité Du Sport / CÉGEP De Terrebonne',427
+42701,0,'Cité Du Sport / Cégep De Terrebonne',427
 42700,0,'Gare Mascouche',427
 44001,0,'Sect. Lachenaie',440
 302401,0,'Cité Du Sport / Cégep',3024
