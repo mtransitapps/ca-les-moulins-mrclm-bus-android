@@ -16,9 +16,6 @@
     <string-array name="twitter_screen_names_target">
         <item>@string/twitter_target_for_poi_authority</item>
     </string-array>
-    <string-array name="twitter_screen_names_target">
-        <item>@string/twitter_target_for_poi_authority</item>
-    </string-array>
     <integer-array name="twitter_screen_names_severity">
         <item>@integer/news_provider_severity_info_agency</item>
     </integer-array>
