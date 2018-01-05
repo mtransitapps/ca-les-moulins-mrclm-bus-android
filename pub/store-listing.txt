@@ -5,7 +5,7 @@ MRC Les Moulins (Urbis) buses for MonTransit
 Schedule. Tweets from @UrbisLM
 ----------
 What's new in this version?:
-Schedule from August 20, 2017 to January 6, 2018.
+Schedule from January 7, 2018 to June 24, 2020.
 Tweets from @UrbisLM.
 ----------
 Full description:
