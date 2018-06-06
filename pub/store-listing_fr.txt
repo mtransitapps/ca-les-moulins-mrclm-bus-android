@@ -1,19 +1,19 @@
-Title: Bus MRC Les Moulins Urbis - M…
+Title: Bus RTM Terrebonne-Mascouche (MRCLM Urbis) - MonT…
 ----------
 Short description:
-Autobus MRC Les Moulins (Urbis) pour MonTransit
-Horaires. Tweets de @UrbisLM
+Autobus RTM Terrebonne-Mascouche (MRCLM Urbis) pour MonTransit
+Horaires. Tweets
 ----------
 What's new in this version?:
 Horaires du 25 décembre 2017 au 24 juin 2020.
-Tweets de @UrbisLM.
+Tweets de @exo_TMascouche.
 ----------
 Full description:
-Cette application ajoute les informations des autobus MRC Les Moulins (Urbis) à MonTransit.
+Cette application ajoute les informations des autobus RTM Terrebonne-Mascouche (MRC Les Moulins Urbis) à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de @UrbisLM sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de @exo_TMascouche sur Twitter.
 
-Le MRC Les Moulins (Urbis) dessert Mascouche et Terrebonne.
+Le RTM Terrebonne-Mascouche (MRC Les Moulins Urbis) dessert Mascouche et Terrebonne.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -21,13 +21,13 @@ Cette application a seulement une icône temporaire et pas d'écran : téléchar
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par l'Agence Métropolitaine de Transport.
-https://www.amt.qc.ca/fr/a-propos/donnees-ouvertes
+Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de Transport Métropolitain (RTM).
+https://rtm.quebec/fr/a-propos/donnees-ouvertes
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-les-moulins-mrclm-bus-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport et MRC Les Moulins (Urbis).
+Cette application n'est pas associée à l'Autorité Régionale de Transport Métropolitain (ARTM) et au Réseau de Transport Métropolitain (RTM) Terrebonne-Mascouche (MRC Les Moulins Urbis).
 
 Autorisations :
 - Autres: requis pour lire les nouvelles (Twitter)
