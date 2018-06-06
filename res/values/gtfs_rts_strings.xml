@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="gtfs_rts_label">MRC Les Moulins (Urbis) Bus</string>
-    <string name="gtfs_rts_short_name">MRC Les Moulins (Urbis)</string>
+    <string name="gtfs_rts_label">RTM Terrebonne-Mascouche Bus</string>
+    <string name="gtfs_rts_short_name">RTM Terrebonne-Mascouche)</string>
 </resources>
