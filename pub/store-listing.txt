@@ -5,7 +5,7 @@ RTM Terrebonne-Mascouche (MRCLM Urbis) buses for MonTransit
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from December 25, 2017 to June 24, 2020.
+Schedule from June 24, 2018 to August 18, 2018.
 Tweets from @exo_TMascouche.
 ----------
 Full description:
