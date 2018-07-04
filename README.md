@@ -1,4 +1,4 @@
-# MRC Les Moulins (Urbis) Bus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
+# exo Terrebonne-Mascouche Bus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
 
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-les-moulins-mrclm-bus-android/master/pub/hi-res-app-icon.png"/>
 

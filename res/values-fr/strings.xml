@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MonTransit RTM Terrebonne-Mascouche (MRCLM Urbis) Bus</string>
-    <string name="app_desc">Données des autobus du RTM Terrebonne-Mascouche (MRC Les Moulins Urbis) pour MonTransit.</string>
+    <string name="app_name">MonTransit exo Terrebonne-Mascouche Bus</string>
+    <string name="app_desc">Données des autobus du exo Terrebonne-Mascouche pour MonTransit.</string>
 </resources>
