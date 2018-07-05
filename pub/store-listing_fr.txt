@@ -1,19 +1,20 @@
-Title: Bus RTM Terrebonne-Mascouche (MRCLM Urbis) - MonT…
+Title: Bus exo Terrebonne-Mascouche - MonTransit
 ----------
 Short description:
-Autobus RTM Terrebonne-Mascouche (MRCLM Urbis) pour MonTransit
+Autobus exo Terrebonne-Mascouche pour MonTransit
 Horaires. Tweets
 ----------
 What's new in this version?:
+(AMT/MRC/Urbis => RTM => exo)
 Horaires du 24 juin 2018 au 18 août 2018.
 Tweets de @exo_TMascouche.
 ----------
 Full description:
-Cette application ajoute les informations des autobus RTM Terrebonne-Mascouche (MRC Les Moulins Urbis) à MonTransit.
+Cette application ajoute les informations des autobus exo Terrebonne-Mascouche à MonTransit.
 
 Cette application contient les horaires et les dernières nouvelles de @exo_TMascouche sur Twitter.
 
-Le RTM Terrebonne-Mascouche (MRC Les Moulins Urbis) dessert Mascouche et Terrebonne.
+exo Terrebonne-Mascouche dessert Mascouche et Terrebonne.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -27,7 +28,10 @@ https://rtm.quebec/fr/a-propos/donnees-ouvertes
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-les-moulins-mrclm-bus-android
 
-Cette application n'est pas associée à l'Autorité Régionale de Transport Métropolitain (ARTM) et au Réseau de Transport Métropolitain (RTM) Terrebonne-Mascouche (MRC Les Moulins Urbis).
+Cette application n'est pas associée au Réseau de Transport Métropolitain (RTM), à l'Autorité Régionale de Transport Métropolitain (ARTM) ou exo Terrebonne-Mascouche.
+
+exo Terrebonne-Mascouche était précédemment connu sous le nom de RTM Secteur Terrebonne-Mascouche et MRC Les Moulins (Urbis).
+exo était précédemment connu sou le nom de Réseau de Transport Métropolitain (RTM) et Agence Métropolitaine de Transport (AMT).
 
 Autorisations :
 - Autres: requis pour lire les nouvelles (Twitter)
