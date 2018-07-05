@@ -30,8 +30,8 @@ https://github.com/mtransitapps/ca-les-moulins-mrclm-bus-android
 
 This app is not related with the Réseau de Transport Métropolitain (RTM), the Autorité Régionale de Transport Métropolitain (ARTM) and exo Terrebonne-Mascouche.
 
-exo Terrebonne-Mascouche was formely know as RTM Terrebonne-Mascouche sector and MRC Les Moulins (Urbis).
-exo was formely know as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
+exo Terrebonne-Mascouche was formerly known as RTM Terrebonne-Mascouche sector and MRC Les Moulins (Urbis).
+exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
 - Other: required to read news (Twitter)
