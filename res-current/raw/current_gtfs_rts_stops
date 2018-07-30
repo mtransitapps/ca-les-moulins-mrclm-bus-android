@@ -109,7 +109,7 @@
 84111,'84111','Esplanade / Place L''Esplanade',45.727754,-73.621006
 84112,'84112','Newton / Alexander',45.745924,-73.677809
 84113,'84113','Andressy / Pompei',45.752491,-73.682892
-84114,'84114','Chesnaye / Pierre-Le-Gardeeur',45.718385,-73.514369
+84114,'84114','Chesnaye / Pierre-Le-Gardeur',45.718385,-73.514369
 84115,'84115','Pierre-Le-Gardeur / Chesnaye',45.718112,-73.514368
 84120,'84120','Pierre-Le-Gardeur / Francois-Ressout',45.717499,-73.52011
 84121,'84121','Pierre-Le-Gardeur / Francois-Ressou',45.717748,-73.519982
@@ -408,7 +408,7 @@
 84485,'84485','Ste-Marie / Anglais',45.755553,-73.627604
 84486,'84486','St-Philippe Ouest / Landry',45.787183,-73.596571
 84487,'84487','Mtée Major Rue Gilbert',45.777323,-73.699365
-84488,'84488','Hotensia / Jouvence',45.768131,-73.728266
+84488,'84488','Hortensia / Jouvence',45.768131,-73.728266
 84489,'84489','Mtée Major Chemin Forest',45.778334,-73.698484
 84490,'84490','Mtée Major Chemin Forest',45.778116,-73.698406
 84495,'84495','Ste-Marie / Supérieur',45.767607,-73.664743
@@ -554,8 +554,8 @@
 84749,'84749','Jeanne-Mance / Foucault',45.723524,-73.671977
 84750,'84750','Jeanne-Mance / Foucault',45.723797,-73.671711
 84751,'84751','Jeanne-Mance / Pinière',45.724909,-73.668022
-84752,'84752','Plaisance / Vaccardes',45.700816,-73.687884
-84753,'84753','Plaisance / Vaccardes',45.700288,-73.687692
+84752,'84752','Plaisance / Vaccarès',45.700816,-73.687884
+84753,'84753','Plaisance / Vaccarès',45.700288,-73.687692
 84754,'84754','Gascon / Joly',45.72055,-73.660243
 84755,'84755','Gascon / Licorne',45.733457,-73.678868
 84756,'84756','Gascon / Licorne',45.733442,-73.679605
@@ -596,7 +596,7 @@
 84793,'84793','St-Louis / Terrebonne',45.695157,-73.627018
 84794,'84794','St-Louis / Terrebonne',45.694967,-73.627323
 84796,'84796','Allée Du Grand-Pic / Chemin St-Charles',45.713891,-73.498242
-84797,'84797','Grand Pic / Grand Héron',45.714671,-73.498482
+84797,'84797','Grand Pic / Saule-Noir',45.714671,-73.498482
 84798,'84798','Mtée Masson / L.-H.-Desjardins',45.698748,-73.634018
 84799,'84799','Mtée Masson / L.-H.-Desjardins',45.69884,-73.634126
 84800,'84800','Seigneurs / Plaisance',45.717938,-73.680869
@@ -765,13 +765,13 @@
 85008,'85008','Chartrand / St-Louis',45.695146,-73.629263
 85009,'85009','St-Louis / Léveillé',45.695308,-73.623491
 85010,'85010','St-Louis / Léveillé',45.695161,-73.623946
-85011,'85011','Chemin Gascon / Napoléon',45.736191,-73.682919
-85012,'85012','Pincourt / 20',45.736445,-73.682988
+85011,'85011','Chemin Gascon / Chemin Pincourt',45.736191,-73.682919
+85012,'85012','Pincourt / Au20',45.736445,-73.682988
 85013,'85013','Bruant / Chene Blanc',45.715909,-73.500133
 85015,'85015','Chartrand / Langlois',45.697263,-73.629774
-85016,'85016','Migrateurs / Wallmart',45.718156,-73.501804
+85016,'85016','Migrateurs / Walmart',45.718156,-73.501804
 85017,'85017','Chartrand / Langlois',45.697503,-73.630089
-85018,'85018','Migrateurs / Wallmart',45.718007,-73.50175
+85018,'85018','Migrateurs / Walmart',45.718007,-73.50175
 85019,'85019','St-Louis / St-Paul',45.698117,-73.642927
 85020,'85020','St-Louis / St-Paul',45.697938,-73.643223
 85021,'85021','Mtée Masson / Langlois',45.696495,-73.634947
@@ -812,13 +812,13 @@
 85073,'85073','Bois-Franc / Pincourt',45.752226,-73.659667
 85076,'85076','Rochon / Cossette',45.780564,-73.631505
 85078,'85078','Terminus Radisson',45.589483,-73.539382
-85079,'85079','Pioniiers / Lucille Teasdale',45.725931,-73.507348
+85079,'85079','Pionniers / Lucille Teasdale',45.725931,-73.507348
 85080,'85080','Mtée Des Pionniers / Voie',45.72775,-73.508365
 85082,'85082','Pivoines / Pierre-Le-Gardeur',45.716892,-73.522316
 85083,'85083','Pierre-Le-Gardeur / Pivoines',45.71717,-73.522249
 85084,'85084','Chesnayes / Soeur-Marie-Rose',45.722285,-73.51343
 85085,'85085','Soeur-Marie-Rose / Chesnayes',45.722513,-73.513427
-85086,'85086','Mtée Des Pionniers / Yves-Blais',45.723879,-73.508005
+85086,'85086','Mtée Des Pionniers / Hôpital Pierre Le-Gardeur',45.723879,-73.508005
 85087,'85087','Mtée Des Pionniers / Voie',45.726046,-73.508003
 85088,'85088','St-Charles / L. Laurier',45.69621,-73.615288
 85089,'85089','Mtée Des Pionniers / Pierre-Laporte',45.709948,-73.512333
