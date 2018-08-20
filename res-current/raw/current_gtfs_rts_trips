@@ -56,12 +56,16 @@
 301100,0,'Terrebonne Cite Du Sport',3011
 302400,0,'Cité Du Sport / Cégep Terrebonne',3024
 302401,0,'Terrebonne / Gascon',3024
-701900,0,'Term Montmorency',7019
+701900,0,'Guzzo Term Montmorency',7019
 701901,0,'Terrebonne Via Guzzo',7019
 703000,0,'Term Radisson',7030
 703001,0,'Term Terrebonne Via Guzzo',7030
 2000600,0,'Appalaches / Oural',20006
 2000601,0,'Pincourt / Bois-Francs',20006
+2001201,0,'Cité Du Sport / Cégep De Terrebonne',20012
+2001200,0,'Lachenaie',20012
+2001501,0,'Cité Du Sport / Cégep De Terrebonne',20015
+2001500,0,'Plaine',20015
 2002401,0,'Gascon',20024
 2002402,0,'Place Longchamps',20024
 2002604,0,'St-Henri',20026
@@ -69,8 +73,3 @@
 2005500,0,'Terrebonne / Pinière & Sobeys',20055
 2005501,0,'Terrebonne / Urbanova',20055
 2005701,0,'Mascouche / Gascon & Martin',20057
-9900100,0,'Term Henri-Bourassa',99001
-9900200,0,'Montmorency',99002
-9900201,0,'Terrebonne',99002
-9900300,0,'Term Radisson',99003
-9900301,0,'Term Terrebonne',99003
