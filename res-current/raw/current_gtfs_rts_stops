@@ -88,12 +88,12 @@
 84089,'84089','St-Charles / Pierre-Laporte',45.705999,-73.518974
 84090,'84090','Côte De Terrebonne / Urbanova (Transfert)',45.680217,-73.736793
 84091,'84091','Côte De Terrebonne / Urbanova (Transfert)',45.67998,-73.737141
-84092,'84092','Urbanova / Passage Piéton',45.682339,-73.737032
+84092,'84092','Urbanova / Passage Piéton',45.682782,-73.738088
 84093,'84093','Pierre-Dansereau / Thérèse-Casgrain',45.687532,-73.734947
 84094,'84094','Pierre-Dansereau / Marcel-De La Sablonnière',45.68789,-73.729658
 84095,'84095','Pinière / Devant Le Sobeys',45.707178,-73.722075
-84096,'84096','Urbanova / Devant Le Passage Piéton',45.682753,-73.738851
-84097,'84097','Urbanova / Côte De Terrebonne',45.680238,-73.737409
+84096,'84096','Urbanova / Devant Le Passage Piéton',45.682589,-73.738333
+84097,'84097','Urbanova / Côte De Terrebonne',45.680247,-73.737267
 84098,'84098','Pierre-Laporte / Clément',45.709035,-73.518104
 84099,'84099','Côte De Terrebonne / Gagné',45.690395,-73.703613
 84100,'84100','Côte De Terrebonne / Gagné',45.690068,-73.70385
@@ -525,7 +525,7 @@
 84670,'84670','Henri-Bourassa Est / Oscar',45.582839,-73.650467
 84671,'84671','St-Julien / Amos',45.595008,-73.640613
 84672,'84672','Garon / Henri-Bourassa Est',45.597779,-73.640553
-84697,'84697','Collège Lionel-Groulx',45.641381,-73.843714
+84697,'84697','Collège Lionel-Groulx',45.641386,-73.843813
 84700,'84700','Gare Mascouche',45.728962,-73.599518
 84702,'84702','Gare Terrebonne',45.727866,-73.518613
 84717,'84717','Gare Ste-Thérèse',45.635646,-73.835565
@@ -653,8 +653,8 @@
 84857,'84857','Côte De Terrebonne / Camping 5 Étoiles',45.684565,-73.710742
 84860,'84860','Côte De Terrebonne / Place Alexandre-Cousineau',45.69484,-73.680404
 84861,'84861','Côte De Terrebonne / Place Alexandre-Cousineau',45.694646,-73.681105
-84862,'84862','Côte De Terrebonne / #3640',45.69459,-73.677692
-84863,'84863','Côte De Terrebonne / #3640',45.694237,-73.678025
+84862,'84862','Côte De Terrebonne / #3640',45.694504,-73.677755
+84863,'84863','Côte De Terrebonne / Devant Le Civique #3668',45.694337,-73.677236
 84864,'84864','Gascon / Devant Le Civique #4539',45.744351,-73.695025
 84865,'84865','Gascon / Nancy',45.743323,-73.69439
 84866,'84866','Gascon / Devant Le Civique #4605',45.745214,-73.696485
@@ -1012,7 +1012,7 @@
 85777,'85777','Pivoines / Pensées',45.712525,-73.51964
 85778,'85778','Johanne / Paul-Émile-Borduas',45.694954,-73.794212
 85779,'85779','Johanne / Paul-Émile-Borduas',45.694977,-73.794583
-85782,'85782','Cité Du Sport',45.719355,-73.707138
+85782,'85782','Cité Du Sport',45.719246,-73.706971
 85783,'85783','Anglais / Albatros',45.746519,-73.641777
 85784,'85784','Côte De Terrebonne / Plaisance',45.694998,-73.684003
 85785,'85785','Côte De Terrebonne / Plaisance',45.694852,-73.684625
