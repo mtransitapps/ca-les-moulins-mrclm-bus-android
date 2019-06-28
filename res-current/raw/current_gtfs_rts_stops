@@ -112,6 +112,7 @@
 84113,'84113','Andrassy / Pompéi',45.752491,-73.682892
 84114,'84114','Chesnaye / Pierre-Le Gardeur',45.718385,-73.514369
 84115,'84115','Pierre-Le Gardeur / Chesnaye',45.718112,-73.514368
+84116,'84116','Affluent / Île-Des-Lys',45.695188,-73.592445
 84120,'84120','Pierre-Le Gardeur / François-Resout',45.717499,-73.52011
 84121,'84121','Pierre-Le Gardeur / François-Resout',45.717748,-73.519982
 84122,'84122','Mtée Des Pionniers / Fleurs',45.712782,-73.511918
@@ -705,6 +706,7 @@
 84923,'84923','Gascon / Pinière',45.723829,-73.664612
 84924,'84924','Gascon / Pinière',45.724038,-73.665683
 84925,'84925','Pinière / Gascon',45.723779,-73.665314
+84928,'84928','Georges-Corbeil / Pascal-Gagnon',45.728912,-73.675133
 84929,'84929','Gascon / Entreprises (Transfert)',45.731095,-73.675418
 84930,'84930','Gascon / Entreprises',45.731077,-73.675958
 84931,'84931','Georges-Corbeil / Pascal-Gagnon',45.726584,-73.677501
@@ -1041,3 +1043,4 @@
 85809,'85809','Cinémas Guzzo Terrebonne',45.708924,-73.64811
 85810,'85810','Angora / Gascon',45.714494,-73.653241
 85845,'85845','Mtée Major / Devant Le McDonald''s',45.754547,-73.709654
+88643,'88643','Terminus Radisson',45.589765,-73.539891
