@@ -44,10 +44,10 @@
 84044,'84044','Esplanade / Anglais',45.726565,-73.656958
 84045,'84045','Esplanade / Anglais',45.726278,-73.656749
 84046,'84046','Pinière / Plaisance',45.724283,-73.680988
-84047,'84047','Pinière / Devant La Banque RBC',45.716626,-73.698448
+84047,'84047','Pinière / Devant La Banque RBC',45.717623,-73.696676
 84048,'84048','Pinière / Melbourne',45.72232,-73.693015
 84049,'84049','Pinière / Melbourne',45.722102,-73.693127
-84050,'84050','Pinière / Banque RBC',45.71678,-73.699025
+84050,'84050','Pinière / Banque RBC',45.717731,-73.696793
 84051,'84051','Pinière / Cologne',45.722911,-73.690112
 84052,'84052','Pinière / Jeanne-Mance',45.725092,-73.668502
 84053,'84053','Esplanade / Mtée Masson',45.727657,-73.617914
@@ -475,7 +475,7 @@
 84580,'84580','Mascouche / Brien',45.741154,-73.601358
 84581,'84581','Ste-Marie / Charny',45.751533,-73.611631
 84582,'84582','Ste-Marie / Charny',45.751377,-73.611742
-84584,'84584','Ste-Marie / Jaywood',45.755406,-73.626764
+84584,'84584','Ste-Marie / Jaywood',45.755232,-73.626348
 84586,'84586','St-Henri / St-Pierre',45.749624,-73.599509
 84587,'84587','St-Henri / St-Pierre',45.749944,-73.599581
 84588,'84588','Châteaubriant / Mathieu',45.757143,-73.60675
@@ -506,7 +506,7 @@
 84624,'84624','Érables / Lafleur',45.745762,-73.652819
 84625,'84625','Érables / Raymond',45.746918,-73.651209
 84626,'84626','Gare / Gare Mascouche',45.729995,-73.599394
-84627,'84627','Gare / Gare Mascouche',45.730199,-73.599473
+84627,'84627','Gare / Gare Mascouche',45.730202,-73.59948
 84628,'84628','Industriel / Munck',45.579327,-73.729204
 84629,'84629','Industriel / Munck',45.579235,-73.7298
 84630,'84630','Henri-Bourassa Est / Laperle',45.567446,-73.660157
@@ -519,7 +519,7 @@
 84637,'84637','Industriel / St- Martin',45.571924,-73.721797
 84649,'84649','Henri-Bourassa Est / Christophe-Colomb',45.562831,-73.66257
 84650,'84650','Henri-Bourassa Est / Christophe-Colomb',45.562788,-73.661926
-84657,'84657','Terminus Henri-Bourassa',45.554709,-73.668832
+84657,'84657','Terminus Henri-Bourassa',45.55546,-73.667865
 84667,'84667','Henri-Bourassa Est / Récollets',45.594287,-73.644056
 84668,'84668','Henri-Bourassa Est / London',45.593265,-73.64441
 84669,'84669','Henri-Bourassa Est / St-Michel',45.584613,-73.650324
@@ -641,8 +641,8 @@
 84843,'84843','Aragon / Verviers',45.722108,-73.67785
 84844,'84844','Verviers / Aragon',45.721883,-73.677854
 84845,'84845','Moody / Devant Les Galeries Terrebonne',45.703368,-73.648509
-84847,'84847','Seigneurs / Aux Galeries Terrebonne',45.700101,-73.646572
-84848,'84848','Seigneurs / Devant Les Galeries Terrebonne',45.700699,-73.645986
+84847,'84847','Seigneurs / Aux Galeries Terrebonne',45.700255,-73.646108
+84848,'84848','Seigneurs / Devant Les Galeries Terrebonne',45.700593,-73.645789
 84849,'84849','St-Louis / Devant Le Civique #960',45.696068,-73.641121
 84850,'84850','St-Louis / Devant Le Civique #963',45.69612,-73.640787
 84851,'84851','Chartrand / Devant Le Civique #371',45.695319,-73.629051
@@ -688,7 +688,7 @@
 84898,'84898','Mtée Gagnon / Adrien-Éthier',45.672166,-73.771234
 84899,'84899','Mtée Gagnon / Adrien-Éthier',45.672327,-73.770959
 84900,'84900','Urbanova / Pierre-Dansereau (Carref. Giratoire)',45.687111,-73.737642
-84901,'84901','Urbanova / Carmel (Carref. Giratoire)',45.787358,-73.596634
+84901,'84901','Urbanova / Carmel (Carref. Giratoire)',45.687853,-73.73844
 84902,'84902','Landry / Principale',45.793625,-73.591419
 84903,'84903','Principale / Hirondelle',45.79099,-73.594719
 84904,'84904','Therrien / Étourneau',45.790791,-73.596748
@@ -744,7 +744,7 @@
 84979,'84979','Chartrand / St-Pierre',45.693951,-73.628807
 84980,'84980','St-Pierre / Chartrand',45.693711,-73.628755
 84981,'84981','Mtée Masson / Chartrand',45.703227,-73.631506
-84982,'84982','Mtée Masson / Chartrand',45.703199,-73.631907
+84982,'84982','Mtée Masson / Chartrand',45.703124,-73.631872
 84983,'84983','Mtée Masson / Chartrand',45.702789,-73.631802
 84984,'84984','Vaillant / Lachenaie',45.703564,-73.656132
 84985,'84985','Vaillant / Lachenaie',45.703694,-73.65644
@@ -761,7 +761,7 @@
 85001,'85001','Gascon / Napoléon',45.732404,-73.677289
 85002,'85002','Gascon / Napoléon',45.732438,-73.678073
 85003,'85003','Moody / Hauteville',45.708897,-73.651438
-85004,'85004','Moody / Hauteville',45.709604,-73.652176
+85004,'85004','Moody / Hauteville',45.709408,-73.652128
 85006,'85006','St-Louis / Chartrand',45.694919,-73.629183
 85007,'85007','St-Louis / Chartrand',45.695138,-73.62888
 85008,'85008','Chartrand / St-Louis',45.695146,-73.629263
@@ -799,8 +799,8 @@
 85050,'85050','Seigneurs / Lacasse',45.699193,-73.65988
 85051,'85051','Seigneurs / Champigny',45.700826,-73.665063
 85052,'85052','Seigneurs / Champigny',45.700786,-73.665519
-85054,'85054','Seigneurs / John-F.-Kennedy',45.704265,-73.632095
-85055,'85055','Seigneurs / John-F.-Kennedy',45.703972,-73.632003
+85054,'85054','Seigneurs / John-F.-Kennedy',45.70406,-73.632949
+85055,'85055','Seigneurs / John-F.-Kennedy',45.703822,-73.63281
 85057,'85057','Seigneurs / Angora',45.714213,-73.669753
 85058,'85058','Seigneurs / Angora',45.714273,-73.670059
 85060,'85060','Seigneurs / Argenson',45.712444,-73.669722
@@ -814,7 +814,7 @@
 85073,'85073','Bois-Francs / Pincourt',45.752226,-73.659667
 85076,'85076','Rochon / Cossette',45.780564,-73.631505
 85078,'85078','Terminus Radisson',45.589483,-73.539382
-85079,'85079','Mtée Des Pionniers / Lucille-Teasdale',45.725931,-73.507348
+85079,'85079','Mtée Des Pionniers / Lucille-Teasdale',45.725926,-73.507591
 85080,'85080','Mtée Des Pionniers / Croisée',45.72775,-73.508365
 85082,'85082','Pivoines / Pierre-Le Gardeur',45.716892,-73.522316
 85083,'85083','Pierre-Le Gardeur / Pivoines',45.71717,-73.522249
@@ -921,7 +921,7 @@
 85493,'85493','Industriel / Henry-Bessemer',45.682517,-73.766342
 85495,'85495','Rives / Mtée Dumais',45.706777,-73.577961
 85497,'85497','Mtée Dumais / St-Charles',45.699188,-73.577991
-85498,'85498','Grande Allée / Lévis',45.710498,-73.625907
+85498,'85498','Grande Allée / Lévis',45.710372,-73.6257
 85499,'85499','Grande Allée / Lévis',45.710336,-73.626402
 85500,'85500','St-Charles / Pierre-Laporte',45.70626,-73.518756
 85501,'85501','Fernand-Poitras / Industriel',45.68969,-73.766782
@@ -1041,6 +1041,6 @@
 85806,'85806','Dupras / Mtée Masson',45.747879,-73.605961
 85808,'85808','Henry-Bessemer / Henry-Bessemer',45.682532,-73.762024
 85809,'85809','Cinémas Guzzo Terrebonne',45.709337,-73.648595
-85810,'85810','Angora / Gascon',45.714494,-73.653241
+85810,'85810','Angora / Opinaca',45.714738,-73.652289
 85845,'85845','Mtée Major / Devant Le McDonald''s',45.754547,-73.709654
 88643,'88643','Terminus Radisson',45.589765,-73.539891
