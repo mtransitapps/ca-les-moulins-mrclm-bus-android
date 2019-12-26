@@ -1,15 +1,3 @@
-Title: exo Terrebonne-Mascouche Bus - MonTransit
-----------
-Short description:
-exo Terrebonne-Mascouche buses for MonTransit
-Schedule. News.
-----------
-What's new in this version?:
-(AMT/MRC/Urbis => RTM => exo)
-Schedule from August 24, 2019 to January 5, 2020.
-Tweets from @exo_TMascouche.
-----------
-Full description:
 This application adds exo Terrebonne-Mascouche buses information to MonTransit.
 
 This app contains the buses schedule and the latest news from @exo_TMascouche on Twitter.
@@ -18,7 +6,7 @@ exo Terrebonne-Mascouche serves Mascouche and Terrebonne in Québec, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -35,17 +23,3 @@ exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence M
 
 Permissions:
 - Other: required to read news (Twitter)
-----------
-Application type: Applications
-----------
-Category: Transportation
-----------
-Content rating: Low Maturity
-----------
-Website: https://github.com/mtransitapps/ca-les-moulins-mrclm-bus-android
-----------
-Email: mtransit.apps+GooglePlay@gmail.com
-----------
-Phone: 
-----------
-Privacy Policy:
