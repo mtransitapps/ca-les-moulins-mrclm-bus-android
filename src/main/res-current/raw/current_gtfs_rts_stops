@@ -116,6 +116,7 @@
 84120,'84120','Pierre-Le Gardeur / François-Resout',45.717499,-73.52011
 84121,'84121','Pierre-Le Gardeur / François-Resout',45.717748,-73.519982
 84122,'84122','Mtée Des Pionniers / Fleurs',45.712782,-73.511918
+84123,'84123','Théodore-Viau / Hydrolico',45.703541,-73.721125
 84124,'84124','Mtée Des Pionniers / Pierre-Le Gardeur',45.717902,-73.511076
 84125,'84125','Mtée Des Pionniers / Pierre-Le Gardeur',45.718186,-73.511228
 84126,'84126','Escoumins / Coteau',45.711516,-73.63879
@@ -519,6 +520,7 @@
 84637,'84637','Industriel / St- Martin',45.571924,-73.721797
 84649,'84649','Henri-Bourassa Est / Christophe-Colomb',45.562831,-73.66257
 84650,'84650','Henri-Bourassa Est / Christophe-Colomb',45.562788,-73.661926
+84656,'84656','Terminus Henri-Bourassa',45.5542,-73.667895
 84657,'84657','Terminus Henri-Bourassa',45.55546,-73.667865
 84667,'84667','Henri-Bourassa Est / Récollets',45.594287,-73.644056
 84668,'84668','Henri-Bourassa Est / London',45.593265,-73.64441
@@ -703,6 +705,7 @@
 84913,'84913','Hirondelle / Principale',45.790926,-73.594896
 84914,'84914','Entreprises / Antonio-Héroux',45.717658,-73.712235
 84915,'84915','Principale / Landry',45.793465,-73.591539
+84916,'84916','Landry / St-Philippe',45.787546,-73.59652
 84923,'84923','Gascon / Pinière',45.723829,-73.664612
 84924,'84924','Gascon / Pinière',45.724038,-73.665683
 84925,'84925','Pinière / Gascon',45.723779,-73.665314
@@ -716,7 +719,6 @@
 84935,'84935','Pascal-Gagnon / Gascon',45.729477,-73.673816
 84936,'84936','Aut. 25 / J.-S.-Archambault (Île St-Jean)',45.692142,-73.650114
 84937,'84937','Aut. 25 / Paquette (Île St-Jean)',45.692318,-73.651489
-84940,'84940','Mtée Masson / Chartrand',45.702906,-73.631974
 84943,'84943','Seigneurs / Vaillant',45.699552,-73.656018
 84944,'84944','Vaillant / Seigneurs',45.699571,-73.656316
 84945,'84945','Seigneurs / Vaillant',45.699289,-73.656399
@@ -745,7 +747,6 @@
 84980,'84980','St-Pierre / Chartrand',45.693711,-73.628755
 84981,'84981','Mtée Masson / Chartrand',45.703227,-73.631506
 84982,'84982','Mtée Masson / Chartrand',45.703124,-73.631872
-84983,'84983','Mtée Masson / Chartrand',45.702789,-73.631802
 84984,'84984','Vaillant / Lachenaie',45.703564,-73.656132
 84985,'84985','Vaillant / Lachenaie',45.703694,-73.65644
 84986,'84986','Vaillant / Grand-Champ',45.704999,-73.657716
@@ -762,6 +763,7 @@
 85002,'85002','Gascon / Napoléon',45.732438,-73.678073
 85003,'85003','Moody / Hauteville',45.708897,-73.651438
 85004,'85004','Moody / Hauteville',45.709408,-73.652128
+85005,'85005','Moody / Chemin Du Coteau',45.707488,-73.651164
 85006,'85006','St-Louis / Chartrand',45.694919,-73.629183
 85007,'85007','St-Louis / Chartrand',45.695138,-73.62888
 85008,'85008','Chartrand / St-Louis',45.695146,-73.629263
@@ -813,6 +815,7 @@
 85072,'85072','Seigneurs / Cloridan',45.699591,-73.662123
 85073,'85073','Bois-Francs / Pincourt',45.752226,-73.659667
 85076,'85076','Rochon / Cossette',45.780564,-73.631505
+85077,'85077','Mtée Des Pionniers / Croisée',45.727654,-73.507905
 85078,'85078','Terminus Radisson',45.589483,-73.539382
 85079,'85079','Mtée Des Pionniers / Lucille-Teasdale',45.725926,-73.507591
 85080,'85080','Mtée Des Pionniers / Croisée',45.72775,-73.508365
