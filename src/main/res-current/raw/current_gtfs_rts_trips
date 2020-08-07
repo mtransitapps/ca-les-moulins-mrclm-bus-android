@@ -1,28 +1,23 @@
-103,0,'Mascouche',1
-104,0,'Terrebonne',1
-203,0,'Mascouche',2
-204,0,'Terrebonne',2
-303,0,'Mascouche',3
-304,0,'Terrebonne',3
-502,0,'Bois-Des-Filion',5
-501,0,'Terrebonne',5
-803,0,'Angora / Hansen',8
-804,0,'Term Terrebonne',8
+101,0,'Mascouche / Term Terrebonne',1
+200,0,'Terrebonne / Mascouche',2
+300,0,'Terrebonne / Mascouche',3
+500,0,'Terrebonne / Bois-Des-Filion',5
+800,0,'Term Terrebonne',8
 901,0,'St-Roch / Lamothe',9
 900,0,'Term Terrebonne',9
 1100,0,'Lachenaie',11
 1101,0,'Term Terrebonne',11
 1401,0,'Forum De La Plaine',14
-1400,0,'Terrebonne',14
+1400,0,'Term Terrebonne',14
 1700,0,'Laforce / Major',17
 1701,0,'Term Terrebonne',17
 1802,0,'Cité du Sport',18
 1801,0,'Term Terrebonne',18
 1900,0,'Term Montmorency',19
 1901,0,'Term Terrebonne',19
-2003,0,'Mascouche',20
-2004,0,'Terrebonne',20
-2302,0,'Cégep',23
+2000,0,'Mascouche',20
+2001,0,'Term Terrebonne',20
+2300,0,'Lionel-Groulx / Gare Ste-Thérèse',23
 2301,0,'Term Terrebonne',23
 2500,0,'Henri-Bourassa Sud',25
 2501,0,'Term Terrebonne',25
@@ -32,11 +27,11 @@
 3001,0,'Term Terrebonne',30
 4000,0,'Radisson',40
 4001,0,'Rives / Dumais',40
-4103,0,'Terrebonne',41
+4100,0,'Term Terrebonne / Anglais',41
 14001,0,'Lachenaie',140
 14000,0,'Term Radisson',140
-40301,0,'Anglais / Gascon',403
 40300,0,'Gare Mascouche',403
+40301,0,'Terrebonne',403
 50000,0,'Gare Mascouche',500
 50001,0,'Term Radisson',500
 50100,0,'Gare Terrebonne',501
@@ -54,8 +49,8 @@
 2001500,0,'Plaine',20015
 2002401,0,'Gascon',20024
 2002402,0,'Place Longchamps',20024
-2002604,0,'St-Henri',20026
-2002603,0,'St-Philippe & Tedford',20026
+2002601,0,'Mascouche / St-Henri',20026
+2002600,0,'Mascouche / St-Philippe & Tedford',20026
 2005500,0,'Term Terrebonne',20055
 2005501,0,'Terrebonne / Urbanova',20055
 2005701,0,'Mascouche / Gascon & Martin',20057
