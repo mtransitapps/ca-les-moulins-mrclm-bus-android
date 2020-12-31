@@ -13,21 +13,21 @@
 84010,'84010','Mascouche / Golfs',45.746769,-73.631649
 84011,'84011','Entreprises / Gascon (Transfert)',45.730419,-73.676597
 84012,'84012','Entreprises / Édouard-Michelin',45.714922,-73.710658
-84013,'84013','Adolphe-Chapleau / 38e Av. Sud',45.666589,-73.758332
-84014,'84014','Adolphe-Chapleau / 38e Av. Sud',45.666022,-73.758608
+84013,'84013','Adolphe-Chapleau / 38e Av Sud',45.666589,-73.758332
+84014,'84014','Adolphe-Chapleau / 38e Av Sud',45.666022,-73.758608
 84015,'84015','Mathieu / Ste-Marie',45.750659,-73.608229
 84016,'84016','Mascouche / Devant Le Pavillon Du Grand-Coteau',45.744851,-73.621593
 84017,'84017','Entreprises / Édouard-Michelin',45.714809,-73.711
 84018,'84018','Fernand-Poitras / Anderson',45.686132,-73.772401
 84019,'84019','Anglais / Gascon',45.719852,-73.658829
-84020,'84020','Adolphe-Chapleau / 31e Av. Nord',45.670102,-73.754899
-84021,'84021','Adolphe-Chapleau / 31e Av. Nord',45.66975,-73.754917
-84022,'84022','Louis-H.-La Fontaine / Larrey',45.613614,-73.587452
-84023,'84023','Louis-H.-La Fontaine / Larrey',45.612931,-73.5886
-84024,'84024','Louis-H.-La Fontaine / Perras',45.629903,-73.61126
-84025,'84025','Louis-H.-La Fontaine / Perras',45.629497,-73.612055
-84026,'84026','Louis-H.-Lafontaine / Cégep Marie-Victorin',45.623116,-73.603937
-84027,'84027','Louis-H.-Lafontaine / Cégep Marie-Victorin',45.622522,-73.604654
+84020,'84020','Adolphe-Chapleau / 31e Av Nord',45.670102,-73.754899
+84021,'84021','Adolphe-Chapleau / 31e Av Nord',45.66975,-73.754917
+84022,'84022','Louis-H-La Fontaine / Larrey',45.613614,-73.587452
+84023,'84023','Louis-H-La Fontaine / Larrey',45.612931,-73.5886
+84024,'84024','Louis-H-La Fontaine / Perras',45.629903,-73.61126
+84025,'84025','Louis-H-La Fontaine / Perras',45.629497,-73.612055
+84026,'84026','Louis-H-Lafontaine / Cégep Marie-Victorin',45.623116,-73.603937
+84027,'84027','Louis-H-Lafontaine / Cégep Marie-Victorin',45.622522,-73.604654
 84028,'84028','Mascouche / Golfs',45.746803,-73.632412
 84029,'84029','Mascouche / Mistral',45.746237,-73.628209
 84030,'84030','Mascouche / Maupassant',45.742551,-73.611265
@@ -370,7 +370,7 @@
 84441,'84441','Mtée Masson / Devant Le IGA',45.722198,-73.620434
 84442,'84442','Mtée Masson / Esplanade',45.727924,-73.617615
 84443,'84443','Mtée Masson / Esplanade',45.728026,-73.617005
-84446,'84446','Mascouche / Carref. Mascouche',45.742139,-73.599946
+84446,'84446','Mascouche / Carref Mascouche',45.742139,-73.599946
 84447,'84447','Mtée Masson / Mascouche',45.741531,-73.609475
 84448,'84448','Mtée Masson / Devant Le Médi-Centre',45.743392,-73.608784
 84449,'84449','Mtée Masson / Médi-Centre',45.743289,-73.608543
@@ -387,7 +387,7 @@
 84463,'84463','Mtée Du Domaine / #1738',45.770892,-73.639166
 84464,'84464','Mtée Masson / Ancêtres',45.744944,-73.6079
 84465,'84465','Anglais / Aigle',45.745494,-73.643919
-84466,'84466','Mascouche / Devant Le Carref. Mascouche',45.742438,-73.600218
+84466,'84466','Mascouche / Devant Le Carref Mascouche',45.742438,-73.600218
 84467,'84467','St-Henri / Devant Le Civique #1533 (Transfert)',45.761682,-73.595095
 84468,'84468','Anglais / Devant Le Civique #1020',45.745812,-73.642475
 84469,'84469','Mtée Major / Curé-Barrette',45.780382,-73.697165
@@ -422,7 +422,7 @@
 84503,'84503','Anglais / Maple',45.729495,-73.656673
 84506,'84506','Bélanger / Michel',45.778998,-73.631361
 84507,'84507','Bélanger / Michel',45.778863,-73.631281
-84509,'84509','Lac / 4e Av.',45.781231,-73.628903
+84509,'84509','Lac / 4e Av',45.781231,-73.628903
 84511,'84511','Michel / Lac',45.779228,-73.629788
 84517,'84517','Pincourt / Ste-Marie',45.760051,-73.635629
 84520,'84520','Pincourt / Northview',45.759094,-73.637992
@@ -486,8 +486,8 @@
 84597,'84597','Anglais / Brompton',45.735358,-73.648698
 84598,'84598','Anglais / Ston',45.729985,-73.656048
 84599,'84599','Anglais / Ston',45.730329,-73.656168
-84601,'84601','Lac / 8e Av.',45.78328,-73.627879
-84602,'84602','8e Av. / Bélanger',45.783725,-73.628632
+84601,'84601','Lac / 8e Av',45.78328,-73.627879
+84602,'84602','8e Av / Bélanger',45.783725,-73.628632
 84603,'84603','Crépeau / Bourgouin',45.737109,-73.603022
 84604,'84604','Crépeau / Bourgouin',45.737267,-73.603285
 84606,'84606','Ste-Marie / Gardeur',45.745335,-73.601308
@@ -568,26 +568,26 @@
 84762,'84762','Seigneurs / St-Michel',45.70067,-73.644456
 84763,'84763','Seigneurs / St-Sacrement',45.702741,-73.6383
 84764,'84764','Seigneurs / St-Sacrement',45.702123,-73.63912
-84765,'84765','Seigneurs / Ernest-S.-Mathieu',45.703189,-73.636714
-84766,'84766','Seigneurs / Ernest-S.-Mathieu',45.702778,-73.636887
+84765,'84765','Seigneurs / Ernest-S-Mathieu',45.703189,-73.636714
+84766,'84766','Seigneurs / Ernest-S-Mathieu',45.702778,-73.636887
 84767,'84767','Seigneurs / Théberge',45.703923,-73.634191
 84768,'84768','Seigneurs / Théberge',45.703498,-73.634414
-84769,'84769','Côte De Terrebonne / 75e Av.',45.692504,-73.65967
-84770,'84770','Côte De Terrebonne / 75e Av.',45.692338,-73.660032
-84771,'84771','Côte De Terrebonne / 43e Av.',45.694899,-73.691293
-84772,'84772','Côte De Terrebonne / 43e Av.',45.69456,-73.691635
+84769,'84769','Côte De Terrebonne / 75e Av',45.692504,-73.65967
+84770,'84770','Côte De Terrebonne / 75e Av',45.692338,-73.660032
+84771,'84771','Côte De Terrebonne / 43e Av',45.694899,-73.691293
+84772,'84772','Côte De Terrebonne / 43e Av',45.69456,-73.691635
 84773,'84773','Côte De Terrebonne / Devant Le Civique #2826',45.694322,-73.693258
 84774,'84774','Côte De Terrebonne / Devant Le Civique #2845',45.694075,-73.693322
-84776,'84776','Côte De Terrebonne / 32e Av.',45.685188,-73.709153
-84777,'84777','Côte De Terrebonne / 32e Av.',45.684926,-73.709289
-84778,'84778','Côte De Terrebonne / 25e Av.',45.684395,-73.718079
-84779,'84779','Côte De Terrebonne / 25e Av.',45.684258,-73.718339
+84776,'84776','Côte De Terrebonne / 32e Av',45.685188,-73.709153
+84777,'84777','Côte De Terrebonne / 32e Av',45.684926,-73.709289
+84778,'84778','Côte De Terrebonne / 25e Av',45.684395,-73.718079
+84779,'84779','Côte De Terrebonne / 25e Av',45.684258,-73.718339
 84780,'84780','Seigneurs / Durocher',45.716242,-73.669916
 84781,'84781','Seigneurs / Durocher',45.716283,-73.67036
-84782,'84782','Côte De Terrebonne / 22e Av.',45.684474,-73.723389
-84783,'84783','Côte De Terrebonne / 22e Av.',45.684341,-73.723577
-84784,'84784','Côte De Terrebonne / 9e Av.',45.679546,-73.738796
-84785,'84785','Côte De Terrebonne / 9e Av.',45.679402,-73.738593
+84782,'84782','Côte De Terrebonne / 22e Av',45.684474,-73.723389
+84783,'84783','Côte De Terrebonne / 22e Av',45.684341,-73.723577
+84784,'84784','Côte De Terrebonne / 9e Av',45.679546,-73.738796
+84785,'84785','Côte De Terrebonne / 9e Av',45.679402,-73.738593
 84786,'84786','Côte De Terrebonne / Aubervilliers',45.678578,-73.740371
 84787,'84787','Côte De Terrebonne / Aubervilliers',45.678312,-73.740504
 84788,'84788','Gascon / Tilleuls',45.716305,-73.654992
@@ -599,8 +599,8 @@
 84794,'84794','St-Louis / Terrebonne',45.694967,-73.627323
 84796,'84796','Grand-Pic / St-Charles',45.713891,-73.498242
 84797,'84797','Grand Pic / Saule-Noir',45.714671,-73.498482
-84798,'84798','Mtée Masson / Louis-H.-Desjardins',45.698748,-73.634018
-84799,'84799','Mtée Masson / Louis-H.-Desjardins',45.69884,-73.634126
+84798,'84798','Mtée Masson / Louis-H-Desjardins',45.698748,-73.634018
+84799,'84799','Mtée Masson / Louis-H-Desjardins',45.69884,-73.634126
 84800,'84800','Seigneurs / Plaisance',45.717938,-73.680869
 84801,'84801','Seigneurs / Plaisance',45.717763,-73.681302
 84802,'84802','Mtée Masson / Théberge',45.700487,-73.633114
@@ -673,7 +673,7 @@
 84879,'84879','Mtée Gagnon / Souvenir',45.665634,-73.761458
 84880,'84880','Côte De Terrebonne / Georges-VI',45.676828,-73.743984
 84881,'84881','Mtée Gagnon / Armand-Bombardier',45.680593,-73.783596
-84882,'84882','Côte De Terrebonne / 3e Av.',45.674399,-73.748446
+84882,'84882','Côte De Terrebonne / 3e Av',45.674399,-73.748446
 84883,'84883','Armand-Bombardier / #1085',45.686229,-73.782319
 84884,'84884','Mtée Gagnon / Vignory',45.679151,-73.781353
 84885,'84885','Gascon / Chayer',45.727672,-73.671057
@@ -691,8 +691,8 @@
 84897,'84897','Châteaubriant / Orléans',45.757873,-73.617689
 84898,'84898','Mtée Gagnon / Adrien-Éthier',45.672166,-73.771234
 84899,'84899','Mtée Gagnon / Adrien-Éthier',45.672327,-73.770959
-84900,'84900','Urbanova / Pierre-Dansereau (Carref. Giratoire)',45.687111,-73.737642
-84901,'84901','Urbanova / Carmel (Carref. Giratoire)',45.687853,-73.73844
+84900,'84900','Urbanova / Pierre-Dansereau (Carref Giratoire)',45.687111,-73.737642
+84901,'84901','Urbanova / Carmel (Carref Giratoire)',45.687853,-73.73844
 84902,'84902','Landry / Principale',45.793625,-73.591419
 84903,'84903','Principale / Hirondelle',45.79099,-73.594719
 84904,'84904','Therrien / Étourneau',45.790791,-73.596748
@@ -719,25 +719,25 @@
 84933,'84933','Gascon / Pascal-Gagnon',45.729806,-73.673389
 84934,'84934','Gascon / Pascal-Gagnon',45.729703,-73.67402
 84935,'84935','Pascal-Gagnon / Gascon',45.729477,-73.673816
-84936,'84936','Aut. 25 / J.-S.-Archambault (Île St-Jean)',45.692142,-73.650114
-84937,'84937','Aut. 25 / Paquette (Île St-Jean)',45.692318,-73.651489
+84936,'84936','Aut 25 / J-S-Archambault (Île St-Jean)',45.692142,-73.650114
+84937,'84937','Aut 25 / Paquette (Île St-Jean)',45.692318,-73.651489
 84943,'84943','Seigneurs / Vaillant',45.699552,-73.656018
 84944,'84944','Vaillant / Seigneurs',45.699571,-73.656316
 84945,'84945','Seigneurs / Vaillant',45.699289,-73.656399
 84946,'84946','Côte De Terrebonne / Damasse',45.693582,-73.656318
 84949,'84949','Côte De Terrebonne / Sylvain-Meunier',45.693895,-73.668278
 84950,'84950','Côte De Terrebonne / Sylvain-Meunier',45.693802,-73.668645
-84955,'84955','Côte De Terrebonne / 33e Av.',45.686012,-73.707822
-84956,'84956','Côte De Terrebonne / 33e Av.',45.685931,-73.7075
-84957,'84957','Côte De Terrebonne / 40e Av.',45.69336,-73.695806
-84958,'84958','Côte De Terrebonne / 40e Av.',45.693106,-73.696251
-84959,'84959','Côte De Terrebonne / 30e Av.',45.684446,-73.712422
-84960,'84960','Côte De Terrebonne / 29e Av.',45.684318,-73.712827
-84961,'84961','Côte De Terrebonne / 20e Av.',45.683612,-73.727516
-84962,'84962','Côte De Terrebonne / 20e Av.',45.683451,-73.727369
+84955,'84955','Côte De Terrebonne / 33e Av',45.686012,-73.707822
+84956,'84956','Côte De Terrebonne / 33e Av',45.685931,-73.7075
+84957,'84957','Côte De Terrebonne / 40e Av',45.69336,-73.695806
+84958,'84958','Côte De Terrebonne / 40e Av',45.693106,-73.696251
+84959,'84959','Côte De Terrebonne / 30e Av',45.684446,-73.712422
+84960,'84960','Côte De Terrebonne / 29e Av',45.684318,-73.712827
+84961,'84961','Côte De Terrebonne / 20e Av',45.683612,-73.727516
+84962,'84962','Côte De Terrebonne / 20e Av',45.683451,-73.727369
 84966,'84966','Côte De Terrebonne / Georges-VI',45.676571,-73.744131
-84967,'84967','Côte De Terrebonne / 4e Av.',45.674946,-73.747552
-84968,'84968','Côte De Terrebonne / 4e Av.',45.675132,-73.747565
+84967,'84967','Côte De Terrebonne / 4e Av',45.674946,-73.747552
+84968,'84968','Côte De Terrebonne / 4e Av',45.675132,-73.747565
 84969,'84969','Côte De Terrebonne / Pommeraie',45.673909,-73.749114
 84970,'84970','Côte De Terrebonne / Pommeraie',45.674174,-73.749119
 84974,'84974','St-Louis / Braves',45.694737,-73.637578
@@ -803,16 +803,16 @@
 85050,'85050','Seigneurs / Lacasse',45.699193,-73.65988
 85051,'85051','Seigneurs / Champigny',45.700826,-73.665063
 85052,'85052','Seigneurs / Champigny',45.700786,-73.665519
-85054,'85054','Seigneurs / John-F.-Kennedy',45.70406,-73.632949
-85055,'85055','Seigneurs / John-F.-Kennedy',45.703822,-73.63281
+85054,'85054','Seigneurs / John-F-Kennedy',45.70406,-73.632949
+85055,'85055','Seigneurs / John-F-Kennedy',45.703822,-73.63281
 85057,'85057','Seigneurs / Angora',45.714213,-73.669753
 85058,'85058','Seigneurs / Angora',45.714273,-73.670059
 85060,'85060','Seigneurs / Argenson',45.712444,-73.669722
 85061,'85061','Seigneurs / Argenson',45.712675,-73.67007
 85064,'85064','Côte De Terrebonne / Joseph-Guay',45.692703,-73.65828
 85065,'85065','Côte De Terrebonne / Joseph-Guay',45.692473,-73.658548
-85069,'85069','Côte De Terrebonne / 15e Av.',45.681351,-73.732528
-85070,'85070','Côte De Terrebonne / 15e Av.',45.681091,-73.732646
+85069,'85069','Côte De Terrebonne / 15e Av',45.681351,-73.732528
+85070,'85070','Côte De Terrebonne / 15e Av',45.681091,-73.732646
 85071,'85071','Seigneurs / Cloridan',45.699836,-73.662016
 85072,'85072','Seigneurs / Cloridan',45.699591,-73.662123
 85073,'85073','Bois-Francs / Pincourt',45.752226,-73.659667
@@ -850,7 +850,7 @@
 85108,'85108','Cantin / Patrick',45.698421,-73.585937
 85109,'85109','Ludovic-Laurier / Champlain',45.699623,-73.61518
 85111,'85111','Île-Des-Lys / Île-De-Mai',45.700633,-73.58351
-85112,'85112','Sœur-Marie-Rose / Devant Le Pavillon D.-Langlois',45.722466,-73.510369
+85112,'85112','Sœur-Marie-Rose / Devant Le Pavillon D-Langlois',45.722466,-73.510369
 85115,'85115','Forest / Lys',45.781115,-73.715426
 85116,'85116','Forest / Lys',45.78102,-73.715722
 85117,'85117','Claude-Léveillée / McDonald''s',45.72134,-73.702523
