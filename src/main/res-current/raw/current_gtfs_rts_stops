@@ -1,6 +1,6 @@
 82128,'82128','Mtée Gagnon / Souvenir',45.669165,-73.766629
 82145,'82145','Mtée Gagnon / Souvenir',45.669195,-73.767111
-84000,'84000','Terminus Montmorency',45.558603,-73.720181
+84000,'84000','Term Montmorency',45.558603,-73.720181
 84001,'84001','Mascouche / Crépeau',45.740697,-73.603418
 84002,'84002','Mascouche / Mercier',45.741152,-73.606135
 84003,'84003','Mascouche / Étang',45.743388,-73.614867
@@ -326,7 +326,6 @@
 84387,'84387','Érables / Boissonneault',45.742824,-73.65748
 84388,'84388','Châteaubriant / Chambéry',45.758877,-73.613376
 84389,'84389','Châteaubriant / Charny',45.757772,-73.609014
-84390,'84390','Rose-De-Lima / Concorde Est',45.602521,-73.653777
 84393,'84393','Concorde Est / Vanier',45.603853,-73.651144
 84394,'84394','Grande Allée / Greenwich',45.749332,-73.652618
 84395,'84395','Grande Allée / Roses',45.751213,-73.655528
@@ -518,8 +517,8 @@
 84637,'84637','Industriel / St- Martin',45.571924,-73.721797
 84649,'84649','Henri-Bourassa Est / Christophe-Colomb',45.562831,-73.66257
 84650,'84650','Henri-Bourassa Est / Christophe-Colomb',45.562788,-73.661926
-84656,'84656','Terminus Henri-Bourassa',45.5542,-73.667895
-84657,'84657','Terminus Henri-Bourassa',45.55546,-73.667865
+84656,'84656','Term Henri-Bourassa',45.5542,-73.667895
+84657,'84657','Term Henri-Bourassa',45.55546,-73.667865
 84667,'84667','Henri-Bourassa Est / Récollets',45.594287,-73.644056
 84668,'84668','Henri-Bourassa Est / London',45.593265,-73.64441
 84669,'84669','Henri-Bourassa Est / St-Michel',45.584613,-73.650324
@@ -659,14 +658,14 @@
 84864,'84864','Gascon / Devant Le Civique #4539',45.744351,-73.695025
 84865,'84865','Gascon / Nancy',45.743323,-73.69439
 84866,'84866','Gascon / Devant Le Civique #4605',45.745214,-73.696485
-84868,'84868','Terminus Terrebonne Quai 19',45.69693,-73.654203
-84869,'84869','Terminus Terrebonne Quai 18',45.697105,-73.654151
+84868,'84868','Term Terrebonne Q:19',45.69693,-73.654203
+84869,'84869','Term Terrebonne Q:18',45.697105,-73.654151
 84870,'84870','Gascon / Devant Le Civique #3620',45.735705,-73.682903
-84871,'84871','Terminus Terrebonne Quai 17',45.69721,-73.654158
+84871,'84871','Term Terrebonne Q:17',45.69721,-73.654158
 84872,'84872','Gascon / Devant Le Centre L''Esplanade',45.72194,-73.662465
-84873,'84873','Terminus Terrebonne Quai 16',45.697435,-73.654163
+84873,'84873','Term Terrebonne Q:16',45.697435,-73.654163
 84874,'84874','St-Louis / Devant Le Collège St-Sacrement',45.694998,-73.638152
-84875,'84875','Terminus Terrebonne',45.698112,-73.653034
+84875,'84875','Term Terrebonne',45.698112,-73.653034
 84876,'84876','Armand-Bombardier / Devant Le Civique #1097',45.686362,-73.782877
 84877,'84877','Armand-Bombardier / Mtée Gagnon',45.680885,-73.783909
 84878,'84878','Mtée Gagnon / Souvenir',45.665635,-73.762209
@@ -816,10 +815,10 @@
 85071,'85071','Seigneurs / Cloridan',45.699836,-73.662016
 85072,'85072','Seigneurs / Cloridan',45.699591,-73.662123
 85073,'85073','Bois-Francs / Pincourt',45.752226,-73.659667
-85074,'85074','Ston Radisson (Terminus Temporaire)',45.590486,-73.54096
+85074,'85074','Ston Radisson (Term Temp)',45.590486,-73.54096
 85076,'85076','Rochon / Cossette',45.780564,-73.631505
 85077,'85077','Mtée Des Pionniers / Croisée',45.727654,-73.507905
-85078,'85078','Terminus Radisson',45.589483,-73.539382
+85078,'85078','Term Radisson',45.589483,-73.539382
 85079,'85079','Mtée Des Pionniers / Lucille-Teasdale',45.725926,-73.507591
 85080,'85080','Mtée Des Pionniers / Croisée',45.72775,-73.508365
 85082,'85082','Pivoines / Pierre-Le Gardeur',45.716892,-73.522316
@@ -1049,7 +1048,7 @@
 85809,'85809','Cinémas Guzzo Terrebonne',45.709337,-73.648595
 85810,'85810','Angora / Opinaca',45.714738,-73.652289
 85845,'85845','Mtée Major / Devant Le McDonald''S',45.754547,-73.709654
-88643,'88643','Terminus Radisson',45.589765,-73.539891
+88643,'88643','Term Radisson',45.589765,-73.539891
 88760,'88760','Plaisance / Lausanne',45.715115,-73.681175
 88761,'88761','Plaisance / Lausanne',45.714935,-73.680999
 88762,'88762','Plaisance / Couvin',45.712904,-73.679772
