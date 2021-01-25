@@ -13,15 +13,15 @@
 84010,'84010','Mascouche / Golfs',45.746769,-73.631649
 84011,'84011','Entreprises / Gascon (Transfert)',45.730419,-73.676597
 84012,'84012','Entreprises / Édouard-Michelin',45.714922,-73.710658
-84013,'84013','Adolphe-Chapleau / 38e Av Sud',45.666589,-73.758332
-84014,'84014','Adolphe-Chapleau / 38e Av Sud',45.666022,-73.758608
+84013,'84013','Adolphe-Chapleau / 38e Av S',45.666589,-73.758332
+84014,'84014','Adolphe-Chapleau / 38e Av S',45.666022,-73.758608
 84015,'84015','Mathieu / Ste-Marie',45.750659,-73.608229
 84016,'84016','Mascouche / Devant Le Pavillon Du Grand-Coteau',45.744851,-73.621593
 84017,'84017','Entreprises / Édouard-Michelin',45.714809,-73.711
 84018,'84018','Fernand-Poitras / Anderson',45.686132,-73.772401
 84019,'84019','Anglais / Gascon',45.719852,-73.658829
-84020,'84020','Adolphe-Chapleau / 31e Av Nord',45.670102,-73.754899
-84021,'84021','Adolphe-Chapleau / 31e Av Nord',45.66975,-73.754917
+84020,'84020','Adolphe-Chapleau / 31e Av N',45.670102,-73.754899
+84021,'84021','Adolphe-Chapleau / 31e Av N',45.66975,-73.754917
 84022,'84022','Louis-H-La Fontaine / Larrey',45.613614,-73.587452
 84023,'84023','Louis-H-La Fontaine / Larrey',45.612931,-73.5886
 84024,'84024','Louis-H-La Fontaine / Perras',45.629903,-73.61126
@@ -326,7 +326,7 @@
 84387,'84387','Érables / Boissonneault',45.742824,-73.65748
 84388,'84388','Châteaubriant / Chambéry',45.758877,-73.613376
 84389,'84389','Châteaubriant / Charny',45.757772,-73.609014
-84393,'84393','Concorde Est / Vanier',45.603853,-73.651144
+84393,'84393','Concorde E / Vanier',45.603853,-73.651144
 84394,'84394','Grande Allée / Greenwich',45.749332,-73.652618
 84395,'84395','Grande Allée / Roses',45.751213,-73.655528
 84399,'84399','Pincourt / Louise',45.737917,-73.680461
@@ -400,13 +400,13 @@
 84477,'84477','Anglais / Mascouche',45.74748,-73.639614
 84478,'84478','Ste-Marie / Devant La Paroisse St-Henri',45.746382,-73.601118
 84479,'84479','Hortensia / Guérin',45.770006,-73.727163
-84480,'84480','St-Henri / St-Philippe Ouest',45.78189,-73.588707
-84481,'84481','St-Philippe Ouest / St-Henri',45.781964,-73.588877
+84480,'84480','St-Henri / St-Philippe O',45.78189,-73.588707
+84481,'84481','St-Philippe O / St-Henri',45.781964,-73.588877
 84482,'84482','Ste-Marie / Newton',45.768413,-73.667901
 84483,'84483','St-Marie / Newton',45.768512,-73.667189
 84484,'84484','Newton / Ste-Marie',45.768285,-73.667333
 84485,'84485','Ste-Marie / Anglais',45.755553,-73.627604
-84486,'84486','St-Philippe Ouest / Landry',45.787183,-73.596571
+84486,'84486','St-Philippe O / Landry',45.787183,-73.596571
 84487,'84487','Mtée Major / Gilbert',45.777323,-73.699365
 84488,'84488','Hortensia / Jouvence',45.768131,-73.728266
 84489,'84489','Mtée Major / Forest',45.778334,-73.698484
@@ -507,24 +507,24 @@
 84627,'84627','Gare / Gare Mascouche',45.730961,-73.598649
 84628,'84628','Industriel / Munck',45.579327,-73.729204
 84629,'84629','Industriel / Munck',45.579235,-73.7298
-84630,'84630','Henri-Bourassa Est / Laperle',45.567446,-73.660157
-84631,'84631','Henri-Bourassa Est / Laperle',45.567145,-73.6598
-84632,'84632','Henri-Bourassa Est / St-Firmin',45.573266,-73.657217
-84633,'84633','Henri-Bourassa Est / St-Firmin',45.57302,-73.656789
-84634,'84634','Henri-Bourassa Est / Laurentides',45.59034,-73.647333
-84635,'84635','Henri-Bourassa Est / Laurentides',45.589811,-73.647253
+84630,'84630','Henri-Bourassa E / Laperle',45.567446,-73.660157
+84631,'84631','Henri-Bourassa E / Laperle',45.567145,-73.6598
+84632,'84632','Henri-Bourassa E / St-Firmin',45.573266,-73.657217
+84633,'84633','Henri-Bourassa E / St-Firmin',45.57302,-73.656789
+84634,'84634','Henri-Bourassa E / Laurentides',45.59034,-73.647333
+84635,'84635','Henri-Bourassa E / Laurentides',45.589811,-73.647253
 84636,'84636','Industriel / St-Martin',45.572676,-73.721908
 84637,'84637','Industriel / St- Martin',45.571924,-73.721797
-84649,'84649','Henri-Bourassa Est / Christophe-Colomb',45.562831,-73.66257
-84650,'84650','Henri-Bourassa Est / Christophe-Colomb',45.562788,-73.661926
+84649,'84649','Henri-Bourassa E / Christophe-Colomb',45.562831,-73.66257
+84650,'84650','Henri-Bourassa E / Christophe-Colomb',45.562788,-73.661926
 84656,'84656','Term Henri-Bourassa',45.5542,-73.667895
 84657,'84657','Term Henri-Bourassa',45.55546,-73.667865
-84667,'84667','Henri-Bourassa Est / Récollets',45.594287,-73.644056
-84668,'84668','Henri-Bourassa Est / London',45.593265,-73.64441
-84669,'84669','Henri-Bourassa Est / St-Michel',45.584613,-73.650324
-84670,'84670','Henri-Bourassa Est / Oscar',45.582839,-73.650467
+84667,'84667','Henri-Bourassa E / Récollets',45.594287,-73.644056
+84668,'84668','Henri-Bourassa E / London',45.593265,-73.64441
+84669,'84669','Henri-Bourassa E / St-Michel',45.584613,-73.650324
+84670,'84670','Henri-Bourassa E / Oscar',45.582839,-73.650467
 84671,'84671','St-Julien / Amos',45.595008,-73.640613
-84672,'84672','Garon / Henri-Bourassa Est',45.597779,-73.640553
+84672,'84672','Garon / Henri-Bourassa E',45.597779,-73.640553
 84697,'84697','Collège Lionel-Groulx',45.640899,-73.842791
 84700,'84700','Gare Mascouche',45.729135,-73.599391
 84702,'84702','Gare Terrebonne',45.727867,-73.519523
@@ -695,13 +695,13 @@
 84902,'84902','Landry / Principale',45.793625,-73.591419
 84903,'84903','Principale / Hirondelle',45.79099,-73.594719
 84904,'84904','Therrien / Étourneau',45.790791,-73.596748
-84905,'84905','St-Philippe Ouest / Bourgie',45.794576,-73.604499
+84905,'84905','St-Philippe O / Bourgie',45.794576,-73.604499
 84906,'84906','Jeanne-Mance / Claire',45.724282,-73.668906
 84907,'84907','Jeanne-Mance / Claire',45.724685,-73.668768
 84908,'84908','St-Louis / Moody',45.699244,-73.646592
-84909,'84909','St-Philippe Ouest / Tedford',45.80231,-73.607686
-84910,'84910','St-Philippe Ouest / Tedford',45.802234,-73.607875
-84911,'84911','St-Philippe Ouest / Bourgie',45.794676,-73.604777
+84909,'84909','St-Philippe O / Tedford',45.80231,-73.607686
+84910,'84910','St-Philippe O / Tedford',45.802234,-73.607875
+84911,'84911','St-Philippe O / Bourgie',45.794676,-73.604777
 84912,'84912','Therrien / Étourneau',45.790599,-73.596872
 84913,'84913','Hirondelle / Principale',45.790926,-73.594896
 84914,'84914','Entreprises / Antonio-Héroux',45.717658,-73.712235
@@ -906,8 +906,8 @@
 85359,'85359','Brady / Rochon',45.77878,-73.633539
 85360,'85360','Cossette / Bergeron',45.78113,-73.633745
 85361,'85361','Ste-Marie / Pincourt',45.760244,-73.635792
-85423,'85423','Desjardins Est / Devant Le Brault & Martineau',45.634849,-73.822855
-85424,'85424','Desjardins Est / Brault & Martineau',45.634333,-73.822179
+85423,'85423','Desjardins E / Devant Le Brault & Martineau',45.634849,-73.822855
+85424,'85424','Desjardins E / Brault & Martineau',45.634333,-73.822179
 85441,'85441','Pinière / Jeanne-Mance',45.725039,-73.667784
 85447,'85447','Georges-Corbeil / Jacob-Jordan',45.726118,-73.681479
 85448,'85448','Jacob-Jordan / Georges-Corbeil',45.725793,-73.68174
