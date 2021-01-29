@@ -109,7 +109,7 @@
 84108,'84108','Entreprises / Fabricants',45.71306,-73.713341
 84109,'84109','Gare / Devant Le Civique #1946',45.728395,-73.60087
 84110,'84110','Esplanade / Étang',45.727969,-73.62052
-84111,'84111','Esplanade / Place De L''Esplanade',45.727754,-73.621006
+84111,'84111','Esplanade / Pl De L''Esplanade',45.727754,-73.621006
 84112,'84112','Newton / Alexander',45.745924,-73.677809
 84113,'84113','Andrassy / Pompéi',45.752491,-73.682892
 84114,'84114','Chesnaye / Pierre-Le Gardeur',45.718385,-73.514369
@@ -224,7 +224,7 @@
 84262,'84262','Rang St-François / Armand-Bombardier',45.689012,-73.782477
 84263,'84263','Laforce / Picard',45.77865,-73.707927
 84264,'84264','Rodrigue / Picard',45.771925,-73.711718
-84267,'84267','Plaisance / Place Du Loiret',45.71102,-73.681249
+84267,'84267','Plaisance / Pl Du Loiret',45.71102,-73.681249
 84268,'84268','Rodrigue / Philippe-Chartrand',45.766916,-73.698126
 84270,'84270','Rodrigue / Azalée',45.761003,-73.693909
 84271,'84271','Laurier / Ste-Claire',45.769306,-73.732651
@@ -239,7 +239,7 @@
 84280,'84280','Plaisance / Cazaux',45.703189,-73.687245
 84281,'84281','Philippe-Chartrand / Quinn',45.764103,-73.699917
 84282,'84282','Plaisance / Amiens',45.709311,-73.684058
-84284,'84284','Plaisance / Place Du Loiret',45.710743,-73.681528
+84284,'84284','Plaisance / Pl Du Loiret',45.710743,-73.681528
 84285,'84285','Rodrigue / Robinson',45.769865,-73.706282
 84287,'84287','Laurier / Blés-D''Or',45.788889,-73.762021
 84288,'84288','Laurier / Blés-D''Or',45.788834,-73.762334
@@ -371,8 +371,8 @@
 84443,'84443','Mtée Masson / Esplanade',45.728026,-73.617005
 84446,'84446','Mascouche / Carref Mascouche',45.742139,-73.599946
 84447,'84447','Mtée Masson / Mascouche',45.741531,-73.609475
-84448,'84448','Mtée Masson / Devant Le Médi-Centre',45.743392,-73.608784
-84449,'84449','Mtée Masson / Médi-Centre',45.743289,-73.608543
+84448,'84448','Mtée Masson / Devant Le Médi-Ctr',45.743392,-73.608784
+84449,'84449','Mtée Masson / Médi-Ctr',45.743289,-73.608543
 84451,'84451','Gare / Devant Le Civique #1404',45.733211,-73.596066
 84452,'84452','Gare / Devant Le Civique #1421',45.733116,-73.596588
 84453,'84453','Laurentides / Cascades',45.770904,-73.680589
@@ -651,8 +651,8 @@
 84855,'84855','Côte De Terrebonne / Devant Le Civique #1600',45.684334,-73.714873
 84856,'84856','Côte De Terrebonne / Devant Le Camping 5 Étoiles',45.684375,-73.710819
 84857,'84857','Côte De Terrebonne / Camping 5 Étoiles',45.684565,-73.710742
-84860,'84860','Côte De Terrebonne / Place Alexandre-Cousineau',45.69484,-73.680404
-84861,'84861','Côte De Terrebonne / Place Alexandre-Cousineau',45.694646,-73.681105
+84860,'84860','Côte De Terrebonne / Pl Alexandre-Cousineau',45.69484,-73.680404
+84861,'84861','Côte De Terrebonne / Pl Alexandre-Cousineau',45.694646,-73.681105
 84862,'84862','Côte De Terrebonne / #3640',45.694504,-73.677755
 84863,'84863','Côte De Terrebonne / Devant Le Civique #3668',45.694337,-73.677236
 84864,'84864','Gascon / Devant Le Civique #4539',45.744351,-73.695025
@@ -662,7 +662,7 @@
 84869,'84869','Term Terrebonne Q:18',45.697105,-73.654151
 84870,'84870','Gascon / Devant Le Civique #3620',45.735705,-73.682903
 84871,'84871','Term Terrebonne Q:17',45.69721,-73.654158
-84872,'84872','Gascon / Devant Le Centre L''Esplanade',45.72194,-73.662465
+84872,'84872','Gascon / Devant Le Ctr L''Esplanade',45.72194,-73.662465
 84873,'84873','Term Terrebonne Q:16',45.697435,-73.654163
 84874,'84874','St-Louis / Devant Le Collège St-Sacrement',45.694998,-73.638152
 84875,'84875','Term Terrebonne',45.698112,-73.653034
@@ -794,8 +794,8 @@
 85041,'85041','Seigneurs / Marseille',45.717797,-73.687697
 85042,'85042','Seigneurs / Charente',45.717897,-73.677559
 85043,'85043','Seigneurs / Charente',45.717787,-73.677761
-85045,'85045','Seigneurs / Place De Gryon',45.717579,-73.672126
-85046,'85046','Seigneurs / Place De Gryon',45.717619,-73.67249
+85045,'85045','Seigneurs / Pl De Gryon',45.717579,-73.672126
+85046,'85046','Seigneurs / Pl De Gryon',45.717619,-73.67249
 85047,'85047','Seigneurs / Verviers',45.717879,-73.674809
 85048,'85048','Seigneurs / Verviers',45.717774,-73.674981
 85049,'85049','Seigneurs / Croissant Du Dauphin',45.69942,-73.65915
@@ -877,9 +877,9 @@
 85148,'85148','Seigneurs / Beauvais',45.717802,-73.685102
 85150,'85150','Entreprises / Claude-Léveillée',45.723167,-73.703266
 85153,'85153','Seigneurs / Cologne',45.7178,-73.68959
-85177,'85177','Smart Centres Mascouche / Devant Le Tim Horton''S',45.723299,-73.618245
-85179,'85179','Bohémier / Smart Centres Mascouche',45.723675,-73.615865
-85183,'85183','Smart Centres Mascouche / Devant Le Rona',45.723502,-73.617908
+85177,'85177','Smart Ctrs Mascouche / Devant Le Tim Horton''S',45.723299,-73.618245
+85179,'85179','Bohémier / Smart Ctrs Mascouche',45.723675,-73.615865
+85183,'85183','Smart Ctrs Mascouche / Devant Le Rona',45.723502,-73.617908
 85189,'85189','Pincourt / Moorecrest',45.758772,-73.638065
 85240,'85240','Pivoines / Muguet',45.715833,-73.522693
 85244,'85244','Chesnaye / Julien-Garnier',45.719969,-73.513587
@@ -1012,7 +1012,7 @@
 85770,'85770','Bourque / Envolée',45.735524,-73.615186
 85771,'85771','Bourque / Mtée Masson',45.735769,-73.613006
 85772,'85772','Esplanade / Bohémier',45.72711,-73.615136
-85773,'85773','Bohémier / Smart Centres Mascouche',45.723614,-73.616128
+85773,'85773','Bohémier / Smart Ctrs Mascouche',45.723614,-73.616128
 85774,'85774','Grande Allée / Nationale',45.708616,-73.624027
 85775,'85775','Pivoines / Pensées',45.712466,-73.519312
 85776,'85776','Mtée Des Pionniers / Fleurs',45.712928,-73.51227
