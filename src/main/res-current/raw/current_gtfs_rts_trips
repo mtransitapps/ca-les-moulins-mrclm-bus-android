@@ -1,38 +1,38 @@
-101,0,'Term Terrebonne / Mascouche',1
-200,0,'Mascouche / Terrebonne',2
-300,0,'Mascouche / Terrebonne',3
-400,0,'Hauteville / Grandchamps',4
+101,0,'Mascouche / Term Terrebonne',1
+200,0,'Terrebonne / Mascouche',2
+300,0,'Terrebonne / Mascouche',3
+400,0,'Grandchamps / Hauteville',4
 401,0,'Term Terrebonne',4
-500,0,'Bois-Des-Filion / Terrebonne',5
+500,0,'Terrebonne / Bois-Des-Filion',5
 800,0,'Term Terrebonne',8
-901,0,'Lamothe / St-Roch',9
+901,0,'St-Roch / Lamothe',9
 900,0,'Term Terrebonne',9
 1100,0,'Lachenaie',11
 1101,0,'Term Terrebonne',11
 1401,0,'Forum De La Plaine',14
 1400,0,'Term Terrebonne',14
-1700,0,'Major / Laforce',17
+1700,0,'Laforce / Major',17
 1701,0,'Term Terrebonne',17
-1802,0,'Cité du Sport',18
-1801,0,'Term Terrebonne',18
+1801,0,'Terrebonne / Cégep De Terrebonne',18
+1800,0,'Terrebonne / Cégep De Terrebonne',18
 1900,0,'Term Montmorency',19
 1901,0,'Term Terrebonne',19
 2000,0,'Mascouche',20
 2001,0,'Term Terrebonne',20
-2100,0,'Terrebonne / Mascouche',21
+2100,0,'Mascouche / Terrebonne',21
 2200,0,'Cité Du Sport - Cégep De Terrebonne',22
 2201,0,'Mascouche',22
-2300,0,'Gare Ste-Thérèse / Lionel-Groulx',23
+2300,0,'Lionel-Groulx / Gare Ste-Thérèse',23
 2301,0,'Term Terrebonne',23
 2500,0,'Henri-Bourassa S',25
 2501,0,'Term Terrebonne',25
-2700,0,'Cégep De Terrebonne / Cité Du Sport',27
+2700,0,'Cité Du Sport / Cégep De Terrebonne',27
 2701,0,'Term Terrebonne',27
 3000,0,'Term Radisson',30
 3001,0,'Term Terrebonne',30
-4001,0,'Dumais / Rives',40
 4000,0,'Radisson',40
-4100,0,'Anglais / Term Terrebonne',41
+4001,0,'Rives / Dumais',40
+4100,0,'Term Terrebonne / Chemin Des Anglais',41
 4500,0,'Term Terrebonne',45
 4800,0,'Term Terrebonne',48
 14001,0,'Lachenaie',140
@@ -43,27 +43,27 @@
 41701,0,'Plaine',417
 50000,0,'Gare Mascouche',500
 50001,0,'Term Radisson',500
-202500,0,'Term Terrebonne / Montréal',2025
+202500,0,'Montréal / Term Terrebonne',2025
 301101,0,'Lachenaie',3011
 301100,0,'Terrebonne Cité Du Sport',3011
-302400,0,'Cégep Terrebonne / Cité Du Sport',3024
-302401,0,'Gascon / Terrebonne',3024
+302400,0,'Cité Du Sport / Cégep Terrebonne',3024
+302401,0,'Terrebonne / Chemin Gascon',3024
 701900,0,'Guzzo Term Montmorency',7019
 701901,0,'Terrebonne Via Guzzo',7019
 703000,0,'Term Radisson',7030
 703001,0,'Term Terrebonne Via Guzzo',7030
-2000601,0,'Bois-Francs / Pincourt',20006
-2000600,0,'Oural / Appalaches',20006
-2001201,0,'Cégep De Terrebonne / Cité Du Sport',20012
+2000600,0,'Appalaches / Oural',20006
+2000601,0,'Pincourt / Bois-Francs',20006
+2001201,0,'Cité Du Sport / Cégep De Terrebonne',20012
 2001200,0,'Lachenaie',20012
-2001301,0,'Cégep De Terrebonne / Cité Du Sport',20013
+2001301,0,'Cité Du Sport / Cégep De Terrebonne',20013
 2001300,0,'Lachenaie',20013
-2001501,0,'Cégep De Terrebonne / Cité Du Sport',20015
+2001501,0,'Cité Du Sport / Cégep De Terrebonne',20015
 2001500,0,'Plaine',20015
-2002400,0,'Gascon / Terrebonne',20024
-2002401,0,'Valiquette / Terrebonne',20024
-2002601,0,'St-Henri / Mascouche',20026
-2002600,0,'St-Philippe & Tedford / Mascouche',20026
-2005500,0,'Pinière & Sobeys / Terrebonne',20055
-2005501,0,'Urbanova / Terrebonne',20055
-2005701,0,'Gascon & Martin / Mascouche',20057
+2002400,0,'Terrebonne / Gascon',20024
+2002401,0,'Terrebonne / Valiquette',20024
+2002601,0,'Mascouche / Chemin St-Henri',20026
+2002600,0,'Mascouche / St-Philippe & Tedford',20026
+2005500,0,'Terrebonne / Pinière & Sobeys',20055
+2005501,0,'Terrebonne / Urbanova',20055
+2005701,0,'Mascouche / Gascon & Martin',20057
