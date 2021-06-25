@@ -1,5 +1,17 @@
+82005,'82005','Adolphe-Chapleau / 31e Av',45.670151,-73.754854
+82007,'82007','Adolphe-Chapleau / 38e Av',45.666209,-73.758464
+82033,'82033','Desjardins E / Vaudry (1)',45.634986,-73.822636
+82063,'82063','Mtée Gagnon / Souvenir',45.6656,-73.761453
+82064,'82064','Adolphe-Chapleau / 38e Av',45.666679,-73.758296
+82066,'82066','Adolphe-Chapleau / 31e Av',45.669743,-73.754837
 82128,'82128','Mtée Gagnon / Souvenir',45.669165,-73.766629
+82130,'82130','Mtée Gagnon / Adrien-Éthier N',45.674557,-73.774434
+82134,'82134','Mtée Gagnon / Vignory',45.679186,-73.781525
+82144,'82144','Mtée Gagnon / Adrien-Éthier S',45.672217,-73.771296
 82145,'82145','Mtée Gagnon / Souvenir',45.669195,-73.767111
+82855,'82855','Côte De Terrebonne / Pommeraie',45.674149,-73.74912
+82868,'82868','Côte De Terrebonne / 4e Av',45.67519,-73.747549
+83222,'83222','Guy / St-Roch',45.70065,-73.803111
 84000,'84000','Term Montmorency',45.558603,-73.720181
 84001,'84001','Mascouche / Crépeau',45.740697,-73.603418
 84002,'84002','Mascouche / Mercier',45.741152,-73.606135
@@ -13,15 +25,11 @@
 84010,'84010','Mascouche / Golfs',45.746769,-73.631649
 84011,'84011','Entreprises / Gascon (Transfert)',45.730419,-73.676597
 84012,'84012','Entreprises / Édouard-Michelin',45.714922,-73.710658
-84013,'84013','Adolphe-Chapleau / 38e Av S',45.666589,-73.758332
-84014,'84014','Adolphe-Chapleau / 38e Av S',45.666022,-73.758608
 84015,'84015','Mathieu / Ste-Marie',45.750659,-73.608229
 84016,'84016','Mascouche / Pavillon Du Grand-Coteau',45.744851,-73.621593
 84017,'84017','Entreprises / Édouard-Michelin',45.714809,-73.711
 84018,'84018','Fernand-Poitras / Anderson',45.686132,-73.772401
 84019,'84019','Anglais / Gascon',45.719852,-73.658829
-84020,'84020','Adolphe-Chapleau / 31e Av N',45.670102,-73.754899
-84021,'84021','Adolphe-Chapleau / 31e Av N',45.66975,-73.754917
 84022,'84022','Louis-H-La Fontaine / Larrey',45.613614,-73.587452
 84023,'84023','Louis-H-La Fontaine / Larrey',45.612931,-73.5886
 84024,'84024','Louis-H-La Fontaine / Perras',45.629903,-73.61126
@@ -205,7 +213,9 @@
 84241,'84241','Picard / Laforce',45.778682,-73.7081
 84242,'84242','Laforce / Mtée Major',45.776589,-73.700001
 84243,'84243','Laforce / Mtée Major',45.776456,-73.70005
+84244,'84244','Chapleau / St-Pierre',45.693394,-73.631418
 84245,'84245','Rodrigue / Chouettes',45.770635,-73.708509
+84246,'84246','St-Louis / St-André',45.69485,-73.635257
 84247,'84247','St-Louis / Mtée Masson',45.695022,-73.634419
 84248,'84248','Rodrigue / Sylvelle',45.772404,-73.713501
 84249,'84249','Pins / Glaïeuls',45.76324,-73.730985
@@ -591,7 +601,6 @@
 84789,'84789','Gascon / Tilleuls',45.71638,-73.655343
 84790,'84790','Gascon / Lucille',45.721976,-73.661981
 84791,'84791','St-Pierre / Adolphe-Chapleau',45.6934,-73.631169
-84792,'84792','St-Pierre / Adolphe-Chapleau',45.693243,-73.631396
 84793,'84793','St-Louis / Terrebonne',45.695157,-73.627018
 84794,'84794','St-Louis / Terrebonne',45.694967,-73.627323
 84796,'84796','Grand-Pic / St-Charles',45.713891,-73.498242
@@ -638,6 +647,7 @@
 84843,'84843','Aragon / Verviers',45.722108,-73.67785
 84844,'84844','Verviers / Aragon',45.721883,-73.677854
 84845,'84845','Moody / Galeries Terrebonne',45.703535,-73.648743
+84846,'84846','Moody / Galeries Terrebonne',45.703176,-73.648578
 84847,'84847','Seigneurs / Aux Galeries Terrebonne',45.700255,-73.646108
 84848,'84848','Seigneurs / Galeries Terrebonne',45.700593,-73.645789
 84849,'84849','St-Louis / #960',45.696068,-73.641121
@@ -667,15 +677,11 @@
 84876,'84876','Armand-Bombardier / #1097',45.686362,-73.782877
 84877,'84877','Armand-Bombardier / Mtée Gagnon',45.680885,-73.783909
 84878,'84878','Mtée Gagnon / Souvenir',45.665635,-73.762209
-84879,'84879','Mtée Gagnon / Souvenir',45.665634,-73.761458
 84880,'84880','Côte De Terrebonne / Georges-VI',45.676828,-73.743984
 84881,'84881','Mtée Gagnon / Armand-Bombardier',45.680593,-73.783596
 84882,'84882','Côte De Terrebonne / 3e Av',45.674399,-73.748446
 84883,'84883','Armand-Bombardier / #1085',45.686229,-73.782319
-84884,'84884','Mtée Gagnon / Vignory',45.679151,-73.781353
 84885,'84885','Gascon / Chayer',45.727672,-73.671057
-84886,'84886','St-Pierre / St-André',45.69285,-73.634262
-84887,'84887','St-Pierre / St-André',45.692671,-73.634466
 84888,'84888','Mtée Gagnon / Vignory',45.724936,-73.689413
 84889,'84889','Entreprises / Jean-Monnet',45.724562,-73.695936
 84890,'84890','Entreprises / Jean-Monnet',45.724699,-73.695613
@@ -686,7 +692,6 @@
 84895,'84895','Châteaubriant / Havre',45.755284,-73.619183
 84896,'84896','Châteaubriant / Montbéliard',45.756499,-73.618382
 84897,'84897','Châteaubriant / Orléans',45.757873,-73.617689
-84898,'84898','Mtée Gagnon / Adrien-Éthier',45.672166,-73.771234
 84899,'84899','Mtée Gagnon / Adrien-Éthier',45.672327,-73.770959
 84900,'84900','Urbanova / Pierre-Dansereau (Carref Giratoire)',45.687111,-73.737642
 84901,'84901','Urbanova / Carmel (Carref Giratoire)',45.687853,-73.73844
@@ -734,14 +739,8 @@
 84962,'84962','Côte De Terrebonne / 20e Av',45.683451,-73.727369
 84966,'84966','Côte De Terrebonne / George-VI',45.676571,-73.744131
 84967,'84967','Côte De Terrebonne / 4e Av',45.674946,-73.747552
-84968,'84968','Côte De Terrebonne / 4e Av',45.675132,-73.747565
 84969,'84969','Côte De Terrebonne / Pommeraie',45.673909,-73.749114
-84970,'84970','Côte De Terrebonne / Pommeraie',45.674174,-73.749119
 84974,'84974','St-Louis / Braves',45.694737,-73.637578
-84975,'84975','St-Pierre / Braves',45.692699,-73.637
-84976,'84976','Braves / St-Pierre',45.692977,-73.637374
-84977,'84977','St-Pierre / St-Joseph',45.693111,-73.63292
-84978,'84978','St-Pierre / St-Joseph',45.692915,-73.633149
 84979,'84979','Chartrand / St-Pierre',45.693951,-73.628807
 84980,'84980','St-Pierre / Chartrand',45.693711,-73.628755
 84981,'84981','Mtée Masson / Chartrand',45.703227,-73.631506
@@ -904,7 +903,6 @@
 85359,'85359','Brady / Rochon',45.77878,-73.633539
 85360,'85360','Cossette / Bergeron',45.78113,-73.633745
 85361,'85361','Ste-Marie / Pincourt',45.760244,-73.635792
-85423,'85423','Desjardins E / Brault & Martineau',45.634849,-73.822855
 85424,'85424','Desjardins E / Brault & Martineau',45.634333,-73.822179
 85441,'85441','Pinière / Jeanne-Mance',45.725039,-73.667784
 85447,'85447','Georges-Corbeil / Jacob-Jordan',45.726118,-73.681479
@@ -1021,8 +1019,6 @@
 85783,'85783','Anglais / Albatros',45.746519,-73.641777
 85784,'85784','Côte De Terrebonne / Plaisance',45.694998,-73.684003
 85785,'85785','Côte De Terrebonne / Plaisance',45.694852,-73.684625
-85786,'85786','St-Pierre / Ste-Marie',45.692538,-73.635304
-85787,'85787','St-Pierre / Ste-Marie',45.692693,-73.635126
 85788,'85788','Grande Allée / Terroir',45.706578,-73.618627
 85789,'85789','Grande Allée / Terroir',45.706682,-73.618019
 85790,'85790','Mtée Major / Bosquet',45.760191,-73.708548
