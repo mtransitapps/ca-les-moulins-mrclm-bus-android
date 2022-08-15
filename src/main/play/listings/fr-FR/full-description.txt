@@ -1,6 +1,6 @@
 Cette application ajoute les informations des autobus exo Terrebonne-Mascouche à MonTransit.
 
-Cette application contient les horaires et les dernières nouvelles de @exo_Nord sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de @allo_exo et @exo_TMascouche sur Twitter.
 
 exo Terrebonne-Mascouche dessert Mascouche et Terrebonne.
 
