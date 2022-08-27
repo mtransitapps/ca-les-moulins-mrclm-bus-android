@@ -1,6 +1,6 @@
 This application adds exo Terrebonne-Mascouche buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from @allo_exo and @exo_TMascouche on Twitter.
+This app contains the buses schedule and the latest news from @allo_exo and @exo_Nord on Twitter.
 
 exo Terrebonne-Mascouche serves Mascouche and Terrebonne in Québec, Canada.
 
