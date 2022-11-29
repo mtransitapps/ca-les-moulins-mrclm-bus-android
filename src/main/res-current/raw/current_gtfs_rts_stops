@@ -100,11 +100,11 @@
 84089,'84089','St-Charles / Pierre-Laporte',45.705999,-73.518974
 84090,'84090','Côte De Terrebonne / Urbanova (Transfert)',45.680217,-73.736793
 84091,'84091','Côte De Terrebonne / Urbanova (Transfert)',45.67998,-73.737141
-84092,'84092','Urbanova / Passage Piéton',45.682782,-73.738088
+84092,'84092','Urbanova / Passage Piéton',45.683236,-73.738296
 84093,'84093','Pierre-Dansereau / Thérèse-Casgrain',45.687532,-73.734947
 84094,'84094','Pierre-Dansereau / Marcel-De La Sablonnière',45.68789,-73.729658
 84095,'84095','Pinière / Sobeys',45.707178,-73.722075
-84096,'84096','Urbanova / Passage Piéton',45.682589,-73.738333
+84096,'84096','Urbanova / Passage Piéton',45.683118,-73.738645
 84097,'84097','Urbanova / Côte De Terrebonne',45.680247,-73.737267
 84098,'84098','Pierre-Laporte / Clément',45.709035,-73.518104
 84099,'84099','Côte De Terrebonne / Gagné',45.690395,-73.703613
@@ -191,13 +191,13 @@
 84213,'84213','St-Charles / Hervieux',45.694822,-73.620961
 84214,'84214','St-Charles / Loire',45.694864,-73.619052
 84215,'84215','St-Charles / Ludovic-Laurier',45.695968,-73.615678
-84216,'84216','Vignobles / Grande Allée',45.707479,-73.612573
+84216,'84216','Vignobles / Chablis',45.707915,-73.612762
 84218,'84218','Vignobles / Beaujolais',45.709322,-73.612477
 84219,'84219','Terroir / Vignobles',45.712127,-73.61343
 84220,'84220','Terroir / Médoc',45.711426,-73.616594
 84221,'84221','Terroir / Médoc',45.708417,-73.618156
-84222,'84222','Terroir / Grande Allée',45.706891,-73.618401
-84223,'84223','Terroir / Grande Allée',45.70678,-73.618204
+84222,'84222','Terroir / Grande Allée',45.7071,-73.618251
+84223,'84223','Terroir / Grande Allée',45.70715,-73.618031
 84224,'84224','Terroir / Médoc',45.707893,-73.617626
 84225,'84225','Terroir / Médoc',45.710831,-73.616554
 84226,'84226','Terroir / Vignobles',45.711954,-73.612783
@@ -351,7 +351,7 @@
 84408,'84408','St-Henri / Laurier',45.752465,-73.598202
 84409,'84409','St-Henri / Louvain',45.754321,-73.59738
 84410,'84410','St-Henri / Louvain',45.754619,-73.597567
-84413,'84413','Ste-Marie / Mathieu',45.750484,-73.607531
+84413,'84413','Ste-Marie / Mathieu',45.750578,-73.608063
 84414,'84414','Ste-Marie / Mathieu',45.750519,-73.608401
 84415,'84415','Ste-Marie / Victor-Hugo',45.752072,-73.613728
 84416,'84416','Ste-Marie / Victor-Hugo',45.751996,-73.614094
@@ -824,7 +824,7 @@
 85076,'85076','Rochon / Cossette',45.780564,-73.631505
 85077,'85077','Mtée Des Pionniers / Croisée',45.727654,-73.507905
 85078,'85078','Term Radisson',45.589483,-73.539382
-85079,'85079','Mtée Des Pionniers / Lucille-Teasdale',45.725926,-73.507591
+85079,'85079','Mtée Des Pionniers / Lucille-Teasdale',45.725299,-73.507655
 85080,'85080','Mtée Des Pionniers / Croisée',45.72775,-73.508365
 85082,'85082','Pivoines / Pierre-Le Gardeur',45.716892,-73.522316
 85083,'85083','Pierre-Le Gardeur / Pivoines',45.71717,-73.522249
@@ -854,7 +854,7 @@
 85108,'85108','Cantin / Patrick',45.698421,-73.585937
 85109,'85109','Ludovic-Laurier / Champlain',45.699623,-73.61518
 85111,'85111','Île-Des-Lys / Île-De-Mai',45.700633,-73.58351
-85112,'85112','Sœur-Marie-Rose / Pavillon D-Langlois',45.722466,-73.510369
+85112,'85112','Sœur-Marie-Rose / Pavillon D-Langlois',45.722437,-73.509628
 85115,'85115','Forest / Lys',45.781115,-73.715426
 85116,'85116','Forest / Lys',45.78102,-73.715722
 85117,'85117','Claude-Léveillée / McDonald''S',45.72134,-73.702523
@@ -908,7 +908,7 @@
 85248,'85248','Cantin / Parc',45.696562,-73.585644
 85249,'85249','Cantin / Parc',45.697095,-73.586074
 85251,'85251','Sœur-Marie-Rose / Mtée Des Pionniers',45.7222,-73.50917
-85252,'85252','Mtée Des Pionniers / Costco',45.720986,-73.508182
+85252,'85252','Mtée Des Pionniers / Costco',45.720715,-73.508623
 85253,'85253','Mtée Des Pionniers / Costco',45.721294,-73.508301
 85255,'85255','St-Charles / Île-Des-Gardes',45.69707,-73.581764
 85256,'85256','St-Charles / Alfred-Messier',45.697859,-73.581072
@@ -1035,9 +1035,9 @@
 85772,'85772','Esplanade / Bohémier',45.72711,-73.615136
 85773,'85773','Bohémier / Smart Ctrs Mascouche',45.723614,-73.616128
 85774,'85774','Grande Allée / Nationale',45.708616,-73.624027
-85775,'85775','Pivoines / Pensées',45.712466,-73.519312
+85775,'85775','Pivoines / Pensées',45.713132,-73.520135
 85776,'85776','Mtée Des Pionniers / Fleurs',45.712928,-73.51227
-85777,'85777','Pivoines / Pensées',45.712525,-73.51964
+85777,'85777','Pivoines / Pensées',45.713201,-73.520418
 85778,'85778','Johanne / Paul-Émile-Borduas',45.694954,-73.794212
 85779,'85779','Johanne / Paul-Émile-Borduas',45.694977,-73.794583
 85782,'85782','Cité Du Sport',45.719246,-73.706971
