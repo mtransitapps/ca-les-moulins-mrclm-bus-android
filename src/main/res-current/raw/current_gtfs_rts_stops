@@ -100,11 +100,11 @@
 84089,'84089','St-Charles / Pierre-Laporte',45.705999,-73.518974
 84090,'84090','Côte De Terrebonne / Urbanova (Transfert)',45.680217,-73.736793
 84091,'84091','Côte De Terrebonne / Urbanova (Transfert)',45.67998,-73.737141
-84092,'84092','Urbanova / Passage Piéton',45.683236,-73.738296
+84092,'84092','Urbanova / Passage Piéton',45.68323,-73.738321
 84093,'84093','Pierre-Dansereau / Thérèse-Casgrain',45.687532,-73.734947
 84094,'84094','Pierre-Dansereau / Marcel-De La Sablonnière',45.68789,-73.729658
 84095,'84095','Pinière / Sobeys',45.707178,-73.722075
-84096,'84096','Urbanova / Passage Piéton',45.683118,-73.738645
+84096,'84096','Urbanova / Passage Piéton',45.683129,-73.738601
 84097,'84097','Urbanova / Côte De Terrebonne',45.680247,-73.737267
 84098,'84098','Pierre-Laporte / Clément',45.709035,-73.518104
 84099,'84099','Côte De Terrebonne / Gagné',45.690395,-73.703613
@@ -203,7 +203,7 @@
 84226,'84226','Terroir / Vignobles',45.711954,-73.612783
 84227,'84227','Vignobles / Croissant De Bourgogne',45.709908,-73.61219
 84229,'84229','Vignobles / Grande Allée',45.707459,-73.612779
-84230,'84230','Grande Allée / Ludovic-Laurier',45.706218,-73.615118
+84230,'84230','Grande Allée / Ludovic-Laurier',45.706226,-73.614996
 84231,'84231','St-Charles / Loire',45.695139,-73.618486
 84232,'84232','St-Charles / Hervieux',45.694985,-73.620633
 84233,'84233','Forest / Lévrier',45.781735,-73.718521
@@ -319,7 +319,7 @@
 84358,'84358','Jalon / Jardins',45.793946,-73.730535
 84359,'84359','Forest / Curé-Barrette',45.784664,-73.719284
 84360,'84360','Curé-Barrette / Forest',45.784752,-73.719665
-84361,'84361','Gare / Esplanade',45.72734,-73.603248
+84361,'84361','Gare / Esplanade',45.727069,-73.602726
 84362,'84362','Esplanade / Bohémier',45.727271,-73.614711
 84363,'84363','Laurier / Rodrigue',45.747795,-73.700828
 84364,'84364','Laurier / Rodrigue',45.747938,-73.700632
@@ -514,7 +514,7 @@
 84623,'84623','Érables / Verdure',45.74425,-73.654976
 84624,'84624','Érables / Lafleur',45.745762,-73.652819
 84625,'84625','Érables / Raymond',45.746918,-73.651209
-84626,'84626','Gare / Gare Mascouche',45.730018,-73.599401
+84626,'84626','Gare / Gare Mascouche',45.730029,-73.599421
 84627,'84627','Gare / Gare Mascouche',45.730055,-73.599599
 84628,'84628','Ind / Munck',45.579327,-73.729204
 84629,'84629','Ind / Munck',45.579235,-73.7298
