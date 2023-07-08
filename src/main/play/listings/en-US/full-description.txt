@@ -1,6 +1,6 @@
 This application adds exo Terrebonne-Mascouche buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from @allo_exo and @exo_Nord on Twitter.
+This app provides the planned schedule as well as real time service statuses and the latest news from exo.quebec, @allo_exo and @exo_Nord on Twitter.
 
 exo Terrebonne-Mascouche serves Mascouche and Terrebonne in Québec, Canada.
 
@@ -22,4 +22,4 @@ exo Terrebonne-Mascouche was formerly known as RTM Terrebonne-Mascouche sector a
 exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
 
 Permissions:
-- Other: required to read news (Twitter)
+- Other: required for real-time service statuses and to read news from exo.quebec and Twitter
