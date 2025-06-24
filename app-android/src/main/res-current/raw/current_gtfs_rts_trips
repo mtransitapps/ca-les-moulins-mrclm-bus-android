@@ -20,14 +20,10 @@
 2000,0,'Mascouche',20
 2001,0,'Term Terrebonne',20
 2100,0,'Mascouche / Terrebonne',21
-2200,0,'Cité Du Sport - Cégep De Terrebonne',22
-2201,0,'Mascouche',22
 2300,0,'Lionel-Groulx / Gare Ste-Thérèse',23
 2301,0,'Term Terrebonne',23
 2500,0,'Henri-Bourassa S',25
 2501,0,'Term Terrebonne',25
-2700,0,'Cité Du Sport / Cégep De Terrebonne',27
-2701,0,'Term Terrebonne',27
 3001,0,'Gare Mascouche Via Term Terrebonne',30
 3000,0,'Term Radisson',30
 4001,0,'Lachenaie',40
@@ -41,10 +37,6 @@
 41701,0,'Plaine',417
 2002500,0,'Montréal N / Ston SRB Amos',20025
 2002501,0,'Term Terrebonne',20025
-3001101,0,'Lachenaie',30011
-3001100,0,'Terrebonne Cité Du Sport',30011
-3002400,0,'Cité Du Sport / Cégep Terrebonne',30024
-3002401,0,'Terrebonne / Chemin Gascon',30024
 2000000600,0,'Appalaches / Oural',20000006
 2000000601,0,'Pincourt / Bois-Francs',20000006
 2000001201,0,'Cité Du Sport / Cégep De Terrebonne',20000012
