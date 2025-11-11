@@ -3,7 +3,7 @@
 300,0,'Terrebonne / Mascouche',3
 400,0,'Grand-Champ / Hauteville',4
 401,0,'Term Terrebonne',4
-500,0,'Terrebonne / Bois-Des-Filion',5
+500,0,'Ind / Jacques Paschini',5
 800,0,'Term Terrebonne',8
 901,0,'St-Roch / Lamothe',9
 900,0,'Term Terrebonne',9
@@ -39,6 +39,8 @@
 14000,0,'Term Radisson',140
 41700,0,'Gare Mascouche',417
 41701,0,'Plaine',417
+51201,0,'Métro Cartier',512
+51200,0,'Terrebonne O',512
 2002500,0,'Montréal N / Ston SRB Amos',20025
 2002501,0,'Term Terrebonne',20025
 3001101,0,'Lachenaie',30011
