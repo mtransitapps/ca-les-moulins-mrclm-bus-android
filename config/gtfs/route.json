@@ -4,7 +4,7 @@
   "route_id_previous_char_configs": [
     {
       "char": "MT",
-      "route_id_part": 28000000
+      "id_part": 28000000
     }
   ],
   "default_route_long_name_enabled": true,
@@ -13,6 +13,7 @@
     "14": "20260410",
     "18": "20260410"
   },
+  "trip_headsign_remove_via": true,
   "trip_headsign_cleaners": [
     {
       "regex": "( (am|pm)$)",
