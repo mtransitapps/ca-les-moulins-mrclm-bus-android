@@ -13,6 +13,7 @@
     "14": "20260410",
     "18": "20260410"
   },
+  "trip_headsign_remove_via": true,
   "trip_headsign_cleaners": [
     {
       "regex": "( (am|pm)$)",
