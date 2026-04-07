@@ -4,7 +4,7 @@
   "route_id_previous_char_configs": [
     {
       "char": "MT",
-      "route_id_part": 28000000
+      "id_part": 28000000
     }
   ],
   "default_route_long_name_enabled": true,
