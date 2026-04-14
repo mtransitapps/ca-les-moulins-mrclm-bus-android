@@ -10,8 +10,8 @@
   "default_route_long_name_enabled": true,
   "direction_finder_enabled": true,
   "allow_non_descriptive_head_signs_until": {
-    "14": "20260410",
-    "18": "20260410"
+    "14": "20260610",
+    "18": "20260610"
   },
   "trip_headsign_remove_via": true,
   "trip_headsign_cleaners": [
