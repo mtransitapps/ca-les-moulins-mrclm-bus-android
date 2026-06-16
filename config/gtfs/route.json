@@ -11,7 +11,7 @@
   "direction_finder_enabled": true,
   "allow_non_descriptive_head_signs_until": {
     "14": "20260610",
-    "18": "20260610"
+    "18": "20260810"
   },
   "trip_headsign_remove_via": true,
   "trip_headsign_cleaners": [
