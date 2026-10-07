@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
     <string-array name="rss_feeds">
-        <item>https://exo.quebec/rss?projection=1568</item>
-        <item>https://exo.quebec/rss?projection=1773</item>
-        <item>https://exo.quebec/rss?projection=1973</item>
+        <!-- <item>https://exo.quebec/rss?projection=1568</item> --><!-- 2026-10: website updated -->
+        <!-- <item>https://exo.quebec/rss?projection=1773</item> --><!-- 2026-10: website updated -->
+        <!-- <item>https://exo.quebec/rss?projection=1973</item> --><!-- 2026-10: website updated -->
     </string-array>
     <string-array name="rss_feeds_author_icon">
         <item>https://exo.quebec/Media/Default/favicon/favicon.ico</item>

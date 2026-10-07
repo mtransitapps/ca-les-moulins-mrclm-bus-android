@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
     <string-array name="twitter_screen_names">
         <item>exo_Nord</item>
-        <!-- <item>allo_exo</item> --><!-- similar to RSS-->
+        <item>allo_exo</item>
     </string-array>
     <string-array name="twitter_screen_names_id">
         <item>123243009</item>
